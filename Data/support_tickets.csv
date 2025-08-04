@@ -1,0 +1,801 @@
+ticket_id,customer_id,created_at,text
+S00001,C0137,2024-12-13,The app crashes when I try to checkout.
+S00002,C0338,2025-05-28,Delivery was delayed by over a week.
+S00003,C0056,2025-03-26,I still haven’t received my refund.
+S00004,C0187,2024-07-24,The app crashes when I try to checkout.
+S00005,C0341,2025-01-13,Order status has not been updated in 3 days.
+S00006,C0258,2024-09-11,Promo code is not being applied at checkout.
+S00007,C0445,2025-02-05,The app crashes when I try to checkout.
+S00008,C0058,2024-10-06,Promo code is not being applied at checkout.
+S00009,C0363,2024-09-03,Customer support is not responding to my emails.
+S00010,C0123,2025-04-29,Items are missing from my delivered package.
+S00011,C0188,2024-12-11,My payment method was declined but it's valid.
+S00012,C0230,2025-05-18,Items are missing from my delivered package.
+S00013,C0168,2025-05-18,I can't update my shipping address.
+S00014,C0420,2025-06-07,My payment method was declined but it's valid.
+S00015,C0114,2025-02-09,My payment method was declined but it's valid.
+S00016,C0252,2024-11-04,Why was I charged twice for the same order?
+S00017,C0107,2025-03-16,My payment method was declined but it's valid.
+S00018,C0037,2024-09-06,I still haven’t received my refund.
+S00019,C0335,2024-11-05,Items are missing from my delivered package.
+S00020,C0092,2025-04-02,Customer support is not responding to my emails.
+S00021,C0018,2025-06-22,Promo code is not being applied at checkout.
+S00022,C0354,2025-07-03,I can't update my shipping address.
+S00023,C0063,2025-05-17,My payment method was declined but it's valid.
+S00024,C0150,2025-06-14,I can't update my shipping address.
+S00025,C0139,2025-04-22,Customer support is not responding to my emails.
+S00026,C0186,2025-03-21,I can't update my shipping address.
+S00027,C0185,2024-12-04,Customer support is not responding to my emails.
+S00028,C0205,2024-07-17,My payment method was declined but it's valid.
+S00029,C0260,2025-02-12,Customer support is not responding to my emails.
+S00030,C0214,2025-06-17,My payment method was declined but it's valid.
+S00031,C0256,2025-02-13,Why was I charged twice for the same order?
+S00032,C0135,2024-09-05,Why was I charged twice for the same order?
+S00033,C0061,2024-08-29,Customer support is not responding to my emails.
+S00034,C0363,2024-07-29,Why was I charged twice for the same order?
+S00035,C0310,2024-07-14,Promo code is not being applied at checkout.
+S00036,C0088,2025-02-20,Promo code is not being applied at checkout.
+S00037,C0324,2025-03-01,Why was I charged twice for the same order?
+S00038,C0476,2024-12-13,Why was I charged twice for the same order?
+S00039,C0207,2025-02-06,Order status has not been updated in 3 days.
+S00040,C0129,2025-02-10,Order status has not been updated in 3 days.
+S00041,C0311,2024-08-15,My payment method was declined but it's valid.
+S00042,C0003,2024-11-08,Customer support is not responding to my emails.
+S00043,C0462,2024-10-02,Delivery was delayed by over a week.
+S00044,C0422,2025-04-29,Delivery was delayed by over a week.
+S00045,C0242,2025-04-26,Why was I charged twice for the same order?
+S00046,C0121,2025-06-28,I can't update my shipping address.
+S00047,C0385,2025-04-20,Why was I charged twice for the same order?
+S00048,C0102,2024-11-23,Order status has not been updated in 3 days.
+S00049,C0038,2024-10-03,My payment method was declined but it's valid.
+S00050,C0341,2024-12-20,Why was I charged twice for the same order?
+S00051,C0496,2025-06-29,Items are missing from my delivered package.
+S00052,C0413,2025-03-20,I can't update my shipping address.
+S00053,C0133,2025-06-08,Items are missing from my delivered package.
+S00054,C0497,2025-01-28,My payment method was declined but it's valid.
+S00055,C0202,2024-09-06,My payment method was declined but it's valid.
+S00056,C0348,2024-09-13,Promo code is not being applied at checkout.
+S00057,C0021,2024-09-22,The app crashes when I try to checkout.
+S00058,C0242,2024-10-06,Items are missing from my delivered package.
+S00059,C0455,2025-03-09,Promo code is not being applied at checkout.
+S00060,C0451,2025-06-02,Order status has not been updated in 3 days.
+S00061,C0109,2024-10-19,I still haven’t received my refund.
+S00062,C0303,2024-09-26,I can't update my shipping address.
+S00063,C0084,2024-08-26,I still haven’t received my refund.
+S00064,C0083,2024-09-21,Customer support is not responding to my emails.
+S00065,C0291,2025-03-30,Order status has not been updated in 3 days.
+S00066,C0452,2025-05-19,Order status has not been updated in 3 days.
+S00067,C0069,2025-02-18,I still haven’t received my refund.
+S00068,C0129,2025-06-08,Items are missing from my delivered package.
+S00069,C0196,2024-08-03,The app crashes when I try to checkout.
+S00070,C0140,2025-06-08,Items are missing from my delivered package.
+S00071,C0444,2025-04-30,I still haven’t received my refund.
+S00072,C0283,2025-07-10,Customer support is not responding to my emails.
+S00073,C0312,2025-02-11,Items are missing from my delivered package.
+S00074,C0234,2025-01-08,Delivery was delayed by over a week.
+S00075,C0023,2025-03-20,Items are missing from my delivered package.
+S00076,C0153,2025-02-11,My payment method was declined but it's valid.
+S00077,C0277,2024-08-10,Promo code is not being applied at checkout.
+S00078,C0061,2024-11-02,I can't update my shipping address.
+S00079,C0319,2025-03-30,Items are missing from my delivered package.
+S00080,C0378,2024-08-08,The app crashes when I try to checkout.
+S00081,C0052,2024-10-18,The app crashes when I try to checkout.
+S00082,C0344,2024-08-20,Items are missing from my delivered package.
+S00083,C0153,2024-09-27,Why was I charged twice for the same order?
+S00084,C0237,2025-04-20,Order status has not been updated in 3 days.
+S00085,C0311,2025-02-23,Items are missing from my delivered package.
+S00086,C0302,2025-01-18,Order status has not been updated in 3 days.
+S00087,C0032,2024-11-18,Delivery was delayed by over a week.
+S00088,C0055,2024-11-28,I still haven’t received my refund.
+S00089,C0352,2024-08-31,Delivery was delayed by over a week.
+S00090,C0389,2025-03-30,Items are missing from my delivered package.
+S00091,C0036,2025-03-24,The app crashes when I try to checkout.
+S00092,C0110,2024-10-12,Why was I charged twice for the same order?
+S00093,C0490,2024-08-20,Customer support is not responding to my emails.
+S00094,C0177,2024-10-31,Order status has not been updated in 3 days.
+S00095,C0362,2025-03-10,Promo code is not being applied at checkout.
+S00096,C0314,2024-08-09,Order status has not been updated in 3 days.
+S00097,C0295,2025-06-27,My payment method was declined but it's valid.
+S00098,C0336,2024-09-26,I can't update my shipping address.
+S00099,C0097,2024-11-13,Items are missing from my delivered package.
+S00100,C0369,2025-01-17,Delivery was delayed by over a week.
+S00101,C0213,2025-01-04,Promo code is not being applied at checkout.
+S00102,C0317,2024-11-17,The app crashes when I try to checkout.
+S00103,C0137,2025-03-09,The app crashes when I try to checkout.
+S00104,C0006,2025-03-26,The app crashes when I try to checkout.
+S00105,C0499,2024-11-08,Customer support is not responding to my emails.
+S00106,C0109,2025-04-08,My payment method was declined but it's valid.
+S00107,C0035,2025-02-24,The app crashes when I try to checkout.
+S00108,C0039,2024-09-10,The app crashes when I try to checkout.
+S00109,C0150,2025-02-17,Items are missing from my delivered package.
+S00110,C0425,2025-02-18,My payment method was declined but it's valid.
+S00111,C0118,2024-12-01,Why was I charged twice for the same order?
+S00112,C0261,2025-05-22,Why was I charged twice for the same order?
+S00113,C0426,2024-11-12,My payment method was declined but it's valid.
+S00114,C0087,2024-12-26,I can't update my shipping address.
+S00115,C0465,2024-09-16,Customer support is not responding to my emails.
+S00116,C0076,2024-07-14,Promo code is not being applied at checkout.
+S00117,C0471,2024-11-11,Order status has not been updated in 3 days.
+S00118,C0464,2024-10-16,Items are missing from my delivered package.
+S00119,C0451,2025-05-14,I still haven’t received my refund.
+S00120,C0414,2024-10-07,Why was I charged twice for the same order?
+S00121,C0313,2025-04-15,My payment method was declined but it's valid.
+S00122,C0383,2025-04-26,Promo code is not being applied at checkout.
+S00123,C0214,2025-03-18,My payment method was declined but it's valid.
+S00124,C0457,2024-12-29,Order status has not been updated in 3 days.
+S00125,C0285,2024-10-28,Promo code is not being applied at checkout.
+S00126,C0239,2025-06-04,Why was I charged twice for the same order?
+S00127,C0165,2024-11-29,The app crashes when I try to checkout.
+S00128,C0087,2024-09-03,My payment method was declined but it's valid.
+S00129,C0141,2025-04-02,I still haven’t received my refund.
+S00130,C0160,2025-04-23,Why was I charged twice for the same order?
+S00131,C0046,2024-11-18,Delivery was delayed by over a week.
+S00132,C0372,2025-06-18,I still haven’t received my refund.
+S00133,C0495,2025-01-15,I can't update my shipping address.
+S00134,C0112,2025-01-08,Customer support is not responding to my emails.
+S00135,C0407,2025-01-01,Why was I charged twice for the same order?
+S00136,C0045,2024-11-29,The app crashes when I try to checkout.
+S00137,C0401,2025-05-09,Why was I charged twice for the same order?
+S00138,C0247,2024-11-08,Order status has not been updated in 3 days.
+S00139,C0104,2025-01-18,Promo code is not being applied at checkout.
+S00140,C0085,2025-02-12,My payment method was declined but it's valid.
+S00141,C0450,2024-08-24,Promo code is not being applied at checkout.
+S00142,C0485,2024-09-19,Promo code is not being applied at checkout.
+S00143,C0134,2025-03-20,Why was I charged twice for the same order?
+S00144,C0108,2025-03-05,Order status has not been updated in 3 days.
+S00145,C0018,2024-08-13,My payment method was declined but it's valid.
+S00146,C0094,2025-06-04,My payment method was declined but it's valid.
+S00147,C0150,2024-10-29,Promo code is not being applied at checkout.
+S00148,C0246,2025-06-11,I can't update my shipping address.
+S00149,C0289,2025-05-29,Customer support is not responding to my emails.
+S00150,C0414,2024-09-05,Order status has not been updated in 3 days.
+S00151,C0209,2025-06-24,I can't update my shipping address.
+S00152,C0126,2025-02-07,Items are missing from my delivered package.
+S00153,C0235,2024-09-27,Items are missing from my delivered package.
+S00154,C0416,2024-10-23,I still haven’t received my refund.
+S00155,C0426,2025-04-23,Promo code is not being applied at checkout.
+S00156,C0499,2025-06-22,My payment method was declined but it's valid.
+S00157,C0462,2025-03-13,Why was I charged twice for the same order?
+S00158,C0122,2024-08-11,My payment method was declined but it's valid.
+S00159,C0138,2025-04-21,My payment method was declined but it's valid.
+S00160,C0495,2024-08-11,The app crashes when I try to checkout.
+S00161,C0115,2025-06-24,My payment method was declined but it's valid.
+S00162,C0420,2024-07-20,I still haven’t received my refund.
+S00163,C0162,2025-06-07,I can't update my shipping address.
+S00164,C0201,2025-01-25,Items are missing from my delivered package.
+S00165,C0234,2025-03-15,My payment method was declined but it's valid.
+S00166,C0028,2024-07-25,My payment method was declined but it's valid.
+S00167,C0011,2025-05-24,The app crashes when I try to checkout.
+S00168,C0206,2025-02-23,Order status has not been updated in 3 days.
+S00169,C0167,2025-02-22,Why was I charged twice for the same order?
+S00170,C0247,2024-12-17,Order status has not been updated in 3 days.
+S00171,C0047,2025-05-07,Why was I charged twice for the same order?
+S00172,C0246,2025-02-27,Customer support is not responding to my emails.
+S00173,C0127,2024-10-03,My payment method was declined but it's valid.
+S00174,C0147,2025-06-29,The app crashes when I try to checkout.
+S00175,C0118,2024-07-27,Delivery was delayed by over a week.
+S00176,C0399,2025-02-12,Promo code is not being applied at checkout.
+S00177,C0382,2024-10-22,Items are missing from my delivered package.
+S00178,C0412,2025-02-09,I can't update my shipping address.
+S00179,C0152,2025-06-25,Items are missing from my delivered package.
+S00180,C0072,2025-02-07,I can't update my shipping address.
+S00181,C0363,2025-01-12,Customer support is not responding to my emails.
+S00182,C0137,2025-03-23,Order status has not been updated in 3 days.
+S00183,C0175,2025-05-10,I still haven’t received my refund.
+S00184,C0289,2024-09-08,My payment method was declined but it's valid.
+S00185,C0446,2024-12-02,Delivery was delayed by over a week.
+S00186,C0481,2024-12-12,I can't update my shipping address.
+S00187,C0019,2024-10-07,Promo code is not being applied at checkout.
+S00188,C0195,2025-06-24,I can't update my shipping address.
+S00189,C0330,2025-05-08,I still haven’t received my refund.
+S00190,C0424,2025-02-26,Items are missing from my delivered package.
+S00191,C0175,2025-04-23,The app crashes when I try to checkout.
+S00192,C0490,2025-06-10,Items are missing from my delivered package.
+S00193,C0449,2024-11-03,Customer support is not responding to my emails.
+S00194,C0413,2024-09-02,The app crashes when I try to checkout.
+S00195,C0434,2025-01-09,Items are missing from my delivered package.
+S00196,C0354,2025-01-23,Promo code is not being applied at checkout.
+S00197,C0499,2025-01-27,Items are missing from my delivered package.
+S00198,C0141,2024-08-17,Promo code is not being applied at checkout.
+S00199,C0246,2024-12-14,Promo code is not being applied at checkout.
+S00200,C0385,2024-12-01,The app crashes when I try to checkout.
+S00201,C0418,2025-01-24,Order status has not been updated in 3 days.
+S00202,C0093,2024-07-17,Why was I charged twice for the same order?
+S00203,C0432,2025-03-27,My payment method was declined but it's valid.
+S00204,C0239,2024-10-13,I can't update my shipping address.
+S00205,C0205,2025-06-07,Why was I charged twice for the same order?
+S00206,C0048,2025-05-22,I still haven’t received my refund.
+S00207,C0433,2025-03-08,Order status has not been updated in 3 days.
+S00208,C0245,2025-04-04,Why was I charged twice for the same order?
+S00209,C0320,2024-09-15,The app crashes when I try to checkout.
+S00210,C0317,2025-05-03,I still haven’t received my refund.
+S00211,C0413,2025-01-28,Delivery was delayed by over a week.
+S00212,C0295,2024-09-05,Order status has not been updated in 3 days.
+S00213,C0128,2025-01-02,Why was I charged twice for the same order?
+S00214,C0344,2024-09-12,I still haven’t received my refund.
+S00215,C0282,2024-09-20,Delivery was delayed by over a week.
+S00216,C0017,2025-02-17,Items are missing from my delivered package.
+S00217,C0071,2025-02-17,I still haven’t received my refund.
+S00218,C0269,2025-03-26,The app crashes when I try to checkout.
+S00219,C0325,2025-06-16,Items are missing from my delivered package.
+S00220,C0282,2024-09-07,The app crashes when I try to checkout.
+S00221,C0305,2025-04-24,Why was I charged twice for the same order?
+S00222,C0451,2025-04-23,My payment method was declined but it's valid.
+S00223,C0007,2025-01-16,Why was I charged twice for the same order?
+S00224,C0314,2025-07-12,Items are missing from my delivered package.
+S00225,C0305,2024-11-29,Promo code is not being applied at checkout.
+S00226,C0103,2024-07-28,Why was I charged twice for the same order?
+S00227,C0309,2024-10-05,Items are missing from my delivered package.
+S00228,C0193,2025-05-04,I still haven’t received my refund.
+S00229,C0241,2025-01-18,Customer support is not responding to my emails.
+S00230,C0062,2024-10-11,Why was I charged twice for the same order?
+S00231,C0017,2024-08-06,I still haven’t received my refund.
+S00232,C0171,2024-10-23,The app crashes when I try to checkout.
+S00233,C0025,2024-12-03,Order status has not been updated in 3 days.
+S00234,C0251,2024-10-11,My payment method was declined but it's valid.
+S00235,C0253,2024-07-29,The app crashes when I try to checkout.
+S00236,C0387,2025-03-29,The app crashes when I try to checkout.
+S00237,C0207,2024-10-01,Items are missing from my delivered package.
+S00238,C0029,2025-01-30,Promo code is not being applied at checkout.
+S00239,C0117,2025-06-30,I can't update my shipping address.
+S00240,C0491,2025-05-16,Customer support is not responding to my emails.
+S00241,C0416,2024-11-30,Promo code is not being applied at checkout.
+S00242,C0282,2024-12-10,Items are missing from my delivered package.
+S00243,C0380,2025-01-11,My payment method was declined but it's valid.
+S00244,C0144,2025-07-04,Customer support is not responding to my emails.
+S00245,C0025,2025-01-05,Customer support is not responding to my emails.
+S00246,C0310,2025-06-20,Items are missing from my delivered package.
+S00247,C0156,2024-07-31,Delivery was delayed by over a week.
+S00248,C0073,2024-07-28,The app crashes when I try to checkout.
+S00249,C0120,2025-03-21,Order status has not been updated in 3 days.
+S00250,C0312,2024-11-15,Delivery was delayed by over a week.
+S00251,C0321,2024-08-22,Items are missing from my delivered package.
+S00252,C0093,2025-04-12,Delivery was delayed by over a week.
+S00253,C0086,2025-01-31,Order status has not been updated in 3 days.
+S00254,C0336,2025-03-16,Items are missing from my delivered package.
+S00255,C0425,2025-05-31,Items are missing from my delivered package.
+S00256,C0499,2024-10-27,Customer support is not responding to my emails.
+S00257,C0364,2025-06-02,Delivery was delayed by over a week.
+S00258,C0435,2025-04-27,I still haven’t received my refund.
+S00259,C0118,2024-10-23,Why was I charged twice for the same order?
+S00260,C0233,2025-02-22,Items are missing from my delivered package.
+S00261,C0199,2025-02-09,Delivery was delayed by over a week.
+S00262,C0206,2025-02-19,I can't update my shipping address.
+S00263,C0413,2024-09-18,My payment method was declined but it's valid.
+S00264,C0339,2024-12-06,I can't update my shipping address.
+S00265,C0147,2025-03-23,Delivery was delayed by over a week.
+S00266,C0450,2024-12-07,The app crashes when I try to checkout.
+S00267,C0425,2024-12-01,The app crashes when I try to checkout.
+S00268,C0429,2025-02-26,Delivery was delayed by over a week.
+S00269,C0271,2025-03-23,Customer support is not responding to my emails.
+S00270,C0387,2025-06-26,Customer support is not responding to my emails.
+S00271,C0139,2025-06-02,Items are missing from my delivered package.
+S00272,C0181,2024-08-12,Order status has not been updated in 3 days.
+S00273,C0430,2025-01-29,Why was I charged twice for the same order?
+S00274,C0030,2024-10-18,Items are missing from my delivered package.
+S00275,C0057,2024-12-06,I can't update my shipping address.
+S00276,C0232,2025-06-30,Why was I charged twice for the same order?
+S00277,C0146,2024-10-07,I can't update my shipping address.
+S00278,C0435,2025-01-29,Customer support is not responding to my emails.
+S00279,C0384,2024-12-17,Delivery was delayed by over a week.
+S00280,C0048,2024-11-27,Order status has not been updated in 3 days.
+S00281,C0194,2025-05-26,I can't update my shipping address.
+S00282,C0224,2025-06-14,Customer support is not responding to my emails.
+S00283,C0136,2024-11-23,Order status has not been updated in 3 days.
+S00284,C0022,2025-01-18,Items are missing from my delivered package.
+S00285,C0006,2025-05-16,Delivery was delayed by over a week.
+S00286,C0204,2025-01-16,My payment method was declined but it's valid.
+S00287,C0239,2025-06-22,The app crashes when I try to checkout.
+S00288,C0185,2025-03-04,Promo code is not being applied at checkout.
+S00289,C0360,2024-07-15,Order status has not been updated in 3 days.
+S00290,C0292,2025-01-23,My payment method was declined but it's valid.
+S00291,C0335,2025-06-20,My payment method was declined but it's valid.
+S00292,C0220,2024-09-04,Order status has not been updated in 3 days.
+S00293,C0116,2024-12-30,My payment method was declined but it's valid.
+S00294,C0313,2024-09-15,I can't update my shipping address.
+S00295,C0049,2024-10-10,My payment method was declined but it's valid.
+S00296,C0173,2024-08-11,Customer support is not responding to my emails.
+S00297,C0082,2025-01-28,Why was I charged twice for the same order?
+S00298,C0322,2025-03-19,I can't update my shipping address.
+S00299,C0333,2024-10-30,My payment method was declined but it's valid.
+S00300,C0045,2024-10-03,Items are missing from my delivered package.
+S00301,C0335,2024-09-09,The app crashes when I try to checkout.
+S00302,C0020,2024-09-23,Delivery was delayed by over a week.
+S00303,C0448,2024-09-12,My payment method was declined but it's valid.
+S00304,C0221,2024-11-30,I still haven’t received my refund.
+S00305,C0123,2025-03-03,The app crashes when I try to checkout.
+S00306,C0234,2025-04-17,Items are missing from my delivered package.
+S00307,C0221,2025-05-26,Customer support is not responding to my emails.
+S00308,C0323,2024-08-27,My payment method was declined but it's valid.
+S00309,C0339,2025-03-26,Customer support is not responding to my emails.
+S00310,C0003,2024-10-10,My payment method was declined but it's valid.
+S00311,C0182,2024-12-21,Promo code is not being applied at checkout.
+S00312,C0206,2025-05-24,Why was I charged twice for the same order?
+S00313,C0320,2024-11-18,Customer support is not responding to my emails.
+S00314,C0040,2025-04-18,Why was I charged twice for the same order?
+S00315,C0059,2024-08-26,The app crashes when I try to checkout.
+S00316,C0439,2025-01-16,Promo code is not being applied at checkout.
+S00317,C0062,2025-04-01,Delivery was delayed by over a week.
+S00318,C0132,2025-01-14,I can't update my shipping address.
+S00319,C0060,2025-01-15,Why was I charged twice for the same order?
+S00320,C0372,2024-10-02,Promo code is not being applied at checkout.
+S00321,C0331,2025-02-27,Why was I charged twice for the same order?
+S00322,C0122,2024-09-13,Order status has not been updated in 3 days.
+S00323,C0479,2025-03-21,Items are missing from my delivered package.
+S00324,C0107,2025-06-01,Delivery was delayed by over a week.
+S00325,C0096,2024-12-19,Items are missing from my delivered package.
+S00326,C0347,2024-07-21,My payment method was declined but it's valid.
+S00327,C0414,2024-10-15,Why was I charged twice for the same order?
+S00328,C0235,2024-07-29,My payment method was declined but it's valid.
+S00329,C0386,2024-08-31,I still haven’t received my refund.
+S00330,C0062,2025-02-20,Why was I charged twice for the same order?
+S00331,C0256,2025-02-28,Promo code is not being applied at checkout.
+S00332,C0049,2024-09-13,Delivery was delayed by over a week.
+S00333,C0393,2024-09-03,My payment method was declined but it's valid.
+S00334,C0348,2025-03-14,Why was I charged twice for the same order?
+S00335,C0159,2025-01-28,I still haven’t received my refund.
+S00336,C0124,2024-07-28,Items are missing from my delivered package.
+S00337,C0482,2025-06-23,Promo code is not being applied at checkout.
+S00338,C0317,2025-02-20,Order status has not been updated in 3 days.
+S00339,C0207,2024-09-08,Why was I charged twice for the same order?
+S00340,C0048,2024-08-03,Order status has not been updated in 3 days.
+S00341,C0409,2024-09-15,The app crashes when I try to checkout.
+S00342,C0420,2024-10-21,Delivery was delayed by over a week.
+S00343,C0136,2025-07-06,Why was I charged twice for the same order?
+S00344,C0201,2024-09-20,Customer support is not responding to my emails.
+S00345,C0250,2025-01-29,I still haven’t received my refund.
+S00346,C0314,2024-12-17,My payment method was declined but it's valid.
+S00347,C0357,2025-03-02,Customer support is not responding to my emails.
+S00348,C0368,2025-02-16,The app crashes when I try to checkout.
+S00349,C0429,2025-03-17,Delivery was delayed by over a week.
+S00350,C0318,2024-07-20,Items are missing from my delivered package.
+S00351,C0295,2025-06-19,Promo code is not being applied at checkout.
+S00352,C0480,2025-04-18,Order status has not been updated in 3 days.
+S00353,C0314,2025-04-21,The app crashes when I try to checkout.
+S00354,C0500,2025-03-26,My payment method was declined but it's valid.
+S00355,C0209,2025-05-27,Promo code is not being applied at checkout.
+S00356,C0355,2024-10-31,Items are missing from my delivered package.
+S00357,C0485,2024-08-15,My payment method was declined but it's valid.
+S00358,C0211,2024-10-05,I still haven’t received my refund.
+S00359,C0192,2025-01-03,Order status has not been updated in 3 days.
+S00360,C0044,2025-03-05,Customer support is not responding to my emails.
+S00361,C0029,2025-01-12,Why was I charged twice for the same order?
+S00362,C0059,2025-06-14,The app crashes when I try to checkout.
+S00363,C0071,2025-01-16,Why was I charged twice for the same order?
+S00364,C0092,2024-09-17,Promo code is not being applied at checkout.
+S00365,C0265,2024-10-06,Why was I charged twice for the same order?
+S00366,C0383,2025-05-31,Customer support is not responding to my emails.
+S00367,C0220,2024-12-19,I can't update my shipping address.
+S00368,C0390,2025-03-03,Promo code is not being applied at checkout.
+S00369,C0413,2024-09-06,Order status has not been updated in 3 days.
+S00370,C0442,2025-05-17,My payment method was declined but it's valid.
+S00371,C0401,2025-02-24,Order status has not been updated in 3 days.
+S00372,C0400,2025-05-27,Why was I charged twice for the same order?
+S00373,C0215,2025-05-07,Delivery was delayed by over a week.
+S00374,C0479,2024-09-21,Promo code is not being applied at checkout.
+S00375,C0387,2025-03-12,My payment method was declined but it's valid.
+S00376,C0277,2025-03-26,Items are missing from my delivered package.
+S00377,C0064,2025-01-27,I still haven’t received my refund.
+S00378,C0346,2024-10-23,Order status has not been updated in 3 days.
+S00379,C0292,2024-09-16,Order status has not been updated in 3 days.
+S00380,C0490,2025-04-20,Promo code is not being applied at checkout.
+S00381,C0485,2025-04-05,Delivery was delayed by over a week.
+S00382,C0245,2024-11-23,Why was I charged twice for the same order?
+S00383,C0470,2025-07-06,Why was I charged twice for the same order?
+S00384,C0062,2025-01-05,Promo code is not being applied at checkout.
+S00385,C0426,2025-03-01,Order status has not been updated in 3 days.
+S00386,C0332,2025-02-27,My payment method was declined but it's valid.
+S00387,C0170,2024-08-08,I still haven’t received my refund.
+S00388,C0445,2024-10-10,Promo code is not being applied at checkout.
+S00389,C0269,2024-12-06,My payment method was declined but it's valid.
+S00390,C0267,2024-12-09,My payment method was declined but it's valid.
+S00391,C0054,2024-09-02,Items are missing from my delivered package.
+S00392,C0016,2024-08-24,Customer support is not responding to my emails.
+S00393,C0008,2024-07-19,I can't update my shipping address.
+S00394,C0104,2024-09-29,I still haven’t received my refund.
+S00395,C0059,2025-02-01,The app crashes when I try to checkout.
+S00396,C0313,2025-06-11,Delivery was delayed by over a week.
+S00397,C0040,2025-07-01,I can't update my shipping address.
+S00398,C0237,2025-01-24,Items are missing from my delivered package.
+S00399,C0443,2025-04-04,I still haven’t received my refund.
+S00400,C0386,2024-12-23,Why was I charged twice for the same order?
+S00401,C0094,2025-05-29,I can't update my shipping address.
+S00402,C0222,2024-09-09,Why was I charged twice for the same order?
+S00403,C0204,2025-03-05,Delivery was delayed by over a week.
+S00404,C0138,2024-08-19,Why was I charged twice for the same order?
+S00405,C0300,2024-09-19,Delivery was delayed by over a week.
+S00406,C0395,2025-01-13,I still haven’t received my refund.
+S00407,C0207,2025-06-28,Order status has not been updated in 3 days.
+S00408,C0336,2025-03-08,Delivery was delayed by over a week.
+S00409,C0081,2025-03-02,My payment method was declined but it's valid.
+S00410,C0218,2024-07-28,The app crashes when I try to checkout.
+S00411,C0002,2025-06-18,The app crashes when I try to checkout.
+S00412,C0178,2025-05-13,Promo code is not being applied at checkout.
+S00413,C0396,2025-02-04,The app crashes when I try to checkout.
+S00414,C0371,2025-01-24,Promo code is not being applied at checkout.
+S00415,C0346,2025-05-01,The app crashes when I try to checkout.
+S00416,C0279,2024-08-27,Delivery was delayed by over a week.
+S00417,C0146,2024-08-18,My payment method was declined but it's valid.
+S00418,C0318,2025-01-16,Order status has not been updated in 3 days.
+S00419,C0224,2025-03-26,Why was I charged twice for the same order?
+S00420,C0369,2024-09-01,Items are missing from my delivered package.
+S00421,C0384,2025-06-28,The app crashes when I try to checkout.
+S00422,C0062,2025-03-04,Order status has not been updated in 3 days.
+S00423,C0294,2025-02-07,Order status has not been updated in 3 days.
+S00424,C0239,2025-05-30,Delivery was delayed by over a week.
+S00425,C0195,2024-07-13,I still haven’t received my refund.
+S00426,C0166,2025-06-26,I still haven’t received my refund.
+S00427,C0451,2025-07-12,The app crashes when I try to checkout.
+S00428,C0222,2025-05-09,Items are missing from my delivered package.
+S00429,C0061,2025-04-02,The app crashes when I try to checkout.
+S00430,C0129,2025-03-22,The app crashes when I try to checkout.
+S00431,C0478,2024-12-27,Promo code is not being applied at checkout.
+S00432,C0173,2025-01-31,My payment method was declined but it's valid.
+S00433,C0480,2024-12-23,My payment method was declined but it's valid.
+S00434,C0156,2024-12-03,Items are missing from my delivered package.
+S00435,C0405,2025-06-17,Promo code is not being applied at checkout.
+S00436,C0378,2024-07-29,Order status has not been updated in 3 days.
+S00437,C0110,2025-04-09,Promo code is not being applied at checkout.
+S00438,C0269,2025-02-03,The app crashes when I try to checkout.
+S00439,C0411,2024-12-26,I still haven’t received my refund.
+S00440,C0356,2024-10-10,I can't update my shipping address.
+S00441,C0391,2025-07-12,Items are missing from my delivered package.
+S00442,C0278,2025-05-20,Order status has not been updated in 3 days.
+S00443,C0074,2025-01-16,Delivery was delayed by over a week.
+S00444,C0487,2025-05-15,I can't update my shipping address.
+S00445,C0437,2025-05-07,I can't update my shipping address.
+S00446,C0463,2024-12-08,Promo code is not being applied at checkout.
+S00447,C0207,2024-11-26,Why was I charged twice for the same order?
+S00448,C0388,2025-02-26,I can't update my shipping address.
+S00449,C0480,2025-05-21,The app crashes when I try to checkout.
+S00450,C0279,2025-04-26,Customer support is not responding to my emails.
+S00451,C0375,2025-06-30,I still haven’t received my refund.
+S00452,C0326,2025-05-04,I still haven’t received my refund.
+S00453,C0472,2025-06-03,Customer support is not responding to my emails.
+S00454,C0340,2025-04-09,My payment method was declined but it's valid.
+S00455,C0357,2025-02-21,The app crashes when I try to checkout.
+S00456,C0340,2024-08-19,Delivery was delayed by over a week.
+S00457,C0204,2024-12-25,I can't update my shipping address.
+S00458,C0161,2024-09-02,My payment method was declined but it's valid.
+S00459,C0028,2024-10-19,The app crashes when I try to checkout.
+S00460,C0392,2025-01-14,Promo code is not being applied at checkout.
+S00461,C0257,2025-05-06,I still haven’t received my refund.
+S00462,C0165,2024-10-11,My payment method was declined but it's valid.
+S00463,C0063,2025-07-01,Items are missing from my delivered package.
+S00464,C0022,2025-06-11,I can't update my shipping address.
+S00465,C0070,2024-08-14,I can't update my shipping address.
+S00466,C0381,2024-10-31,Delivery was delayed by over a week.
+S00467,C0405,2025-03-02,Why was I charged twice for the same order?
+S00468,C0096,2025-06-18,Items are missing from my delivered package.
+S00469,C0163,2025-02-09,I can't update my shipping address.
+S00470,C0079,2024-12-18,Order status has not been updated in 3 days.
+S00471,C0005,2024-10-21,Items are missing from my delivered package.
+S00472,C0316,2024-09-24,I can't update my shipping address.
+S00473,C0120,2024-07-15,Customer support is not responding to my emails.
+S00474,C0302,2025-04-14,Items are missing from my delivered package.
+S00475,C0178,2025-04-27,The app crashes when I try to checkout.
+S00476,C0176,2025-05-15,Items are missing from my delivered package.
+S00477,C0390,2024-07-15,Delivery was delayed by over a week.
+S00478,C0217,2025-02-22,Promo code is not being applied at checkout.
+S00479,C0056,2025-01-31,Promo code is not being applied at checkout.
+S00480,C0366,2024-08-27,Promo code is not being applied at checkout.
+S00481,C0187,2025-01-30,The app crashes when I try to checkout.
+S00482,C0232,2024-07-15,My payment method was declined but it's valid.
+S00483,C0255,2024-12-05,Promo code is not being applied at checkout.
+S00484,C0413,2025-03-24,I still haven’t received my refund.
+S00485,C0455,2024-09-30,The app crashes when I try to checkout.
+S00486,C0104,2025-04-06,My payment method was declined but it's valid.
+S00487,C0077,2025-05-21,I still haven’t received my refund.
+S00488,C0230,2024-11-12,I still haven’t received my refund.
+S00489,C0402,2024-12-18,I still haven’t received my refund.
+S00490,C0258,2024-11-30,Order status has not been updated in 3 days.
+S00491,C0264,2024-08-23,Delivery was delayed by over a week.
+S00492,C0331,2024-09-11,Delivery was delayed by over a week.
+S00493,C0481,2024-12-25,The app crashes when I try to checkout.
+S00494,C0182,2025-03-23,I still haven’t received my refund.
+S00495,C0381,2025-02-25,Customer support is not responding to my emails.
+S00496,C0256,2024-10-19,Items are missing from my delivered package.
+S00497,C0038,2024-10-22,My payment method was declined but it's valid.
+S00498,C0176,2025-06-10,Delivery was delayed by over a week.
+S00499,C0027,2025-02-06,Promo code is not being applied at checkout.
+S00500,C0276,2024-12-24,The app crashes when I try to checkout.
+S00501,C0140,2025-02-17,My payment method was declined but it's valid.
+S00502,C0299,2024-12-02,The app crashes when I try to checkout.
+S00503,C0445,2025-03-07,Customer support is not responding to my emails.
+S00504,C0287,2024-10-28,Order status has not been updated in 3 days.
+S00505,C0091,2025-04-03,Order status has not been updated in 3 days.
+S00506,C0480,2024-12-14,I still haven’t received my refund.
+S00507,C0061,2025-05-02,Order status has not been updated in 3 days.
+S00508,C0458,2024-09-30,The app crashes when I try to checkout.
+S00509,C0451,2024-12-20,Promo code is not being applied at checkout.
+S00510,C0365,2025-02-12,I still haven’t received my refund.
+S00511,C0347,2025-05-13,I can't update my shipping address.
+S00512,C0163,2025-02-14,My payment method was declined but it's valid.
+S00513,C0351,2025-01-16,Customer support is not responding to my emails.
+S00514,C0143,2024-09-20,I still haven’t received my refund.
+S00515,C0400,2024-12-03,The app crashes when I try to checkout.
+S00516,C0253,2025-02-15,My payment method was declined but it's valid.
+S00517,C0269,2025-02-13,Promo code is not being applied at checkout.
+S00518,C0369,2025-01-16,Why was I charged twice for the same order?
+S00519,C0291,2024-10-19,Customer support is not responding to my emails.
+S00520,C0500,2024-11-09,The app crashes when I try to checkout.
+S00521,C0459,2025-02-22,Customer support is not responding to my emails.
+S00522,C0187,2024-11-23,Delivery was delayed by over a week.
+S00523,C0405,2025-05-09,Why was I charged twice for the same order?
+S00524,C0499,2025-04-12,My payment method was declined but it's valid.
+S00525,C0438,2024-12-14,Order status has not been updated in 3 days.
+S00526,C0459,2025-04-24,The app crashes when I try to checkout.
+S00527,C0414,2024-09-04,Customer support is not responding to my emails.
+S00528,C0304,2025-06-10,My payment method was declined but it's valid.
+S00529,C0291,2025-06-13,Order status has not been updated in 3 days.
+S00530,C0086,2025-03-26,Promo code is not being applied at checkout.
+S00531,C0166,2024-08-28,Promo code is not being applied at checkout.
+S00532,C0415,2025-04-29,Customer support is not responding to my emails.
+S00533,C0462,2024-10-10,I still haven’t received my refund.
+S00534,C0408,2025-01-02,Delivery was delayed by over a week.
+S00535,C0114,2025-05-13,I still haven’t received my refund.
+S00536,C0433,2025-04-10,Delivery was delayed by over a week.
+S00537,C0480,2024-09-13,The app crashes when I try to checkout.
+S00538,C0356,2024-08-20,I can't update my shipping address.
+S00539,C0416,2024-10-04,Customer support is not responding to my emails.
+S00540,C0183,2025-01-26,Items are missing from my delivered package.
+S00541,C0207,2024-12-15,Customer support is not responding to my emails.
+S00542,C0256,2025-05-14,Why was I charged twice for the same order?
+S00543,C0235,2024-11-21,Order status has not been updated in 3 days.
+S00544,C0442,2025-05-20,Why was I charged twice for the same order?
+S00545,C0355,2025-02-11,Promo code is not being applied at checkout.
+S00546,C0003,2025-03-08,Delivery was delayed by over a week.
+S00547,C0208,2025-04-09,Order status has not been updated in 3 days.
+S00548,C0197,2025-04-04,Promo code is not being applied at checkout.
+S00549,C0341,2025-04-13,Order status has not been updated in 3 days.
+S00550,C0125,2024-08-02,I still haven’t received my refund.
+S00551,C0138,2024-09-13,Promo code is not being applied at checkout.
+S00552,C0339,2024-12-11,I still haven’t received my refund.
+S00553,C0025,2025-03-16,I still haven’t received my refund.
+S00554,C0068,2024-07-15,Order status has not been updated in 3 days.
+S00555,C0061,2025-05-21,My payment method was declined but it's valid.
+S00556,C0029,2024-08-17,Why was I charged twice for the same order?
+S00557,C0383,2025-05-28,Promo code is not being applied at checkout.
+S00558,C0019,2024-09-07,Items are missing from my delivered package.
+S00559,C0171,2025-01-12,My payment method was declined but it's valid.
+S00560,C0450,2025-07-07,Why was I charged twice for the same order?
+S00561,C0074,2025-03-03,Promo code is not being applied at checkout.
+S00562,C0061,2024-12-29,Delivery was delayed by over a week.
+S00563,C0427,2024-08-16,Why was I charged twice for the same order?
+S00564,C0153,2024-08-06,Items are missing from my delivered package.
+S00565,C0276,2024-10-23,Customer support is not responding to my emails.
+S00566,C0048,2024-10-07,The app crashes when I try to checkout.
+S00567,C0211,2024-12-04,I still haven’t received my refund.
+S00568,C0343,2024-08-13,The app crashes when I try to checkout.
+S00569,C0408,2025-03-06,My payment method was declined but it's valid.
+S00570,C0139,2024-07-27,Customer support is not responding to my emails.
+S00571,C0110,2025-04-20,I still haven’t received my refund.
+S00572,C0482,2024-12-09,Promo code is not being applied at checkout.
+S00573,C0183,2025-07-09,My payment method was declined but it's valid.
+S00574,C0028,2024-12-15,Items are missing from my delivered package.
+S00575,C0197,2025-03-08,Order status has not been updated in 3 days.
+S00576,C0191,2025-03-24,Promo code is not being applied at checkout.
+S00577,C0315,2025-01-31,Why was I charged twice for the same order?
+S00578,C0389,2024-11-01,Order status has not been updated in 3 days.
+S00579,C0051,2025-04-15,My payment method was declined but it's valid.
+S00580,C0149,2025-03-02,Why was I charged twice for the same order?
+S00581,C0268,2024-08-04,Items are missing from my delivered package.
+S00582,C0050,2025-05-09,The app crashes when I try to checkout.
+S00583,C0388,2025-05-27,Why was I charged twice for the same order?
+S00584,C0246,2024-09-19,The app crashes when I try to checkout.
+S00585,C0113,2025-03-18,I still haven’t received my refund.
+S00586,C0170,2025-01-20,Delivery was delayed by over a week.
+S00587,C0468,2024-12-30,I can't update my shipping address.
+S00588,C0166,2024-07-17,Promo code is not being applied at checkout.
+S00589,C0409,2024-09-29,I can't update my shipping address.
+S00590,C0014,2025-06-08,I still haven’t received my refund.
+S00591,C0203,2025-03-25,Why was I charged twice for the same order?
+S00592,C0288,2025-07-09,I still haven’t received my refund.
+S00593,C0395,2025-05-21,I can't update my shipping address.
+S00594,C0189,2025-01-30,I can't update my shipping address.
+S00595,C0402,2024-11-01,Promo code is not being applied at checkout.
+S00596,C0155,2024-09-26,Order status has not been updated in 3 days.
+S00597,C0055,2024-07-26,Customer support is not responding to my emails.
+S00598,C0182,2025-05-13,I still haven’t received my refund.
+S00599,C0210,2025-03-02,Delivery was delayed by over a week.
+S00600,C0376,2025-01-27,Customer support is not responding to my emails.
+S00601,C0471,2025-01-29,I still haven’t received my refund.
+S00602,C0075,2025-04-10,Items are missing from my delivered package.
+S00603,C0277,2024-10-10,My payment method was declined but it's valid.
+S00604,C0428,2025-03-08,My payment method was declined but it's valid.
+S00605,C0133,2024-09-16,I can't update my shipping address.
+S00606,C0343,2025-03-31,My payment method was declined but it's valid.
+S00607,C0425,2024-07-27,The app crashes when I try to checkout.
+S00608,C0059,2024-11-29,Delivery was delayed by over a week.
+S00609,C0345,2024-10-13,My payment method was declined but it's valid.
+S00610,C0489,2025-03-24,Why was I charged twice for the same order?
+S00611,C0182,2024-07-13,The app crashes when I try to checkout.
+S00612,C0458,2024-09-12,Customer support is not responding to my emails.
+S00613,C0406,2024-08-15,The app crashes when I try to checkout.
+S00614,C0339,2024-10-28,I still haven’t received my refund.
+S00615,C0321,2025-05-11,I can't update my shipping address.
+S00616,C0064,2024-12-15,Promo code is not being applied at checkout.
+S00617,C0327,2024-11-27,Promo code is not being applied at checkout.
+S00618,C0260,2025-03-30,Items are missing from my delivered package.
+S00619,C0193,2024-12-13,Delivery was delayed by over a week.
+S00620,C0143,2024-12-17,I still haven’t received my refund.
+S00621,C0104,2025-02-25,Promo code is not being applied at checkout.
+S00622,C0460,2024-09-28,I can't update my shipping address.
+S00623,C0406,2025-01-30,Customer support is not responding to my emails.
+S00624,C0214,2024-07-18,Promo code is not being applied at checkout.
+S00625,C0242,2025-04-25,Why was I charged twice for the same order?
+S00626,C0431,2025-04-12,The app crashes when I try to checkout.
+S00627,C0209,2024-08-08,Promo code is not being applied at checkout.
+S00628,C0093,2025-07-04,I still haven’t received my refund.
+S00629,C0430,2024-08-17,My payment method was declined but it's valid.
+S00630,C0142,2025-02-11,My payment method was declined but it's valid.
+S00631,C0434,2024-10-31,Customer support is not responding to my emails.
+S00632,C0404,2025-04-21,My payment method was declined but it's valid.
+S00633,C0434,2025-05-31,Customer support is not responding to my emails.
+S00634,C0112,2025-02-15,I still haven’t received my refund.
+S00635,C0417,2025-07-03,Delivery was delayed by over a week.
+S00636,C0375,2025-02-24,My payment method was declined but it's valid.
+S00637,C0059,2024-11-25,Items are missing from my delivered package.
+S00638,C0043,2024-11-24,I can't update my shipping address.
+S00639,C0207,2025-05-25,The app crashes when I try to checkout.
+S00640,C0268,2024-10-28,My payment method was declined but it's valid.
+S00641,C0296,2024-10-08,Customer support is not responding to my emails.
+S00642,C0118,2025-03-05,I still haven’t received my refund.
+S00643,C0020,2024-09-26,My payment method was declined but it's valid.
+S00644,C0222,2025-01-05,Promo code is not being applied at checkout.
+S00645,C0166,2025-07-09,My payment method was declined but it's valid.
+S00646,C0131,2024-12-16,Customer support is not responding to my emails.
+S00647,C0156,2025-02-21,Why was I charged twice for the same order?
+S00648,C0184,2024-07-14,Why was I charged twice for the same order?
+S00649,C0090,2024-10-22,My payment method was declined but it's valid.
+S00650,C0094,2024-09-18,The app crashes when I try to checkout.
+S00651,C0013,2024-12-18,I still haven’t received my refund.
+S00652,C0461,2025-01-25,Items are missing from my delivered package.
+S00653,C0322,2024-08-23,Items are missing from my delivered package.
+S00654,C0293,2025-02-14,My payment method was declined but it's valid.
+S00655,C0433,2024-08-10,My payment method was declined but it's valid.
+S00656,C0230,2025-01-24,Why was I charged twice for the same order?
+S00657,C0322,2024-11-04,Customer support is not responding to my emails.
+S00658,C0292,2024-11-22,The app crashes when I try to checkout.
+S00659,C0438,2024-08-27,My payment method was declined but it's valid.
+S00660,C0026,2025-05-20,Items are missing from my delivered package.
+S00661,C0075,2025-01-28,I still haven’t received my refund.
+S00662,C0456,2024-10-21,Delivery was delayed by over a week.
+S00663,C0364,2025-06-18,Promo code is not being applied at checkout.
+S00664,C0424,2025-02-06,My payment method was declined but it's valid.
+S00665,C0299,2025-05-24,Customer support is not responding to my emails.
+S00666,C0150,2025-05-17,My payment method was declined but it's valid.
+S00667,C0148,2025-02-21,Customer support is not responding to my emails.
+S00668,C0008,2024-10-18,The app crashes when I try to checkout.
+S00669,C0029,2025-04-08,Delivery was delayed by over a week.
+S00670,C0296,2024-12-31,I can't update my shipping address.
+S00671,C0474,2024-12-06,I still haven’t received my refund.
+S00672,C0414,2025-02-16,I still haven’t received my refund.
+S00673,C0209,2025-01-16,Customer support is not responding to my emails.
+S00674,C0128,2025-05-08,Why was I charged twice for the same order?
+S00675,C0340,2024-10-15,Customer support is not responding to my emails.
+S00676,C0116,2025-05-03,Why was I charged twice for the same order?
+S00677,C0439,2024-11-21,Order status has not been updated in 3 days.
+S00678,C0144,2025-05-10,Items are missing from my delivered package.
+S00679,C0430,2025-01-07,I still haven’t received my refund.
+S00680,C0318,2025-04-03,The app crashes when I try to checkout.
+S00681,C0235,2025-01-07,Customer support is not responding to my emails.
+S00682,C0007,2025-06-26,The app crashes when I try to checkout.
+S00683,C0464,2025-02-25,Delivery was delayed by over a week.
+S00684,C0045,2025-06-12,The app crashes when I try to checkout.
+S00685,C0443,2024-07-23,My payment method was declined but it's valid.
+S00686,C0239,2025-01-16,Items are missing from my delivered package.
+S00687,C0440,2024-08-27,My payment method was declined but it's valid.
+S00688,C0432,2024-10-21,Promo code is not being applied at checkout.
+S00689,C0155,2024-08-08,Customer support is not responding to my emails.
+S00690,C0181,2024-12-08,I still haven’t received my refund.
+S00691,C0215,2025-03-16,Customer support is not responding to my emails.
+S00692,C0088,2025-05-15,Items are missing from my delivered package.
+S00693,C0256,2024-10-06,I can't update my shipping address.
+S00694,C0073,2025-04-01,I can't update my shipping address.
+S00695,C0419,2025-04-11,Promo code is not being applied at checkout.
+S00696,C0179,2024-10-10,Items are missing from my delivered package.
+S00697,C0212,2025-05-19,Order status has not been updated in 3 days.
+S00698,C0293,2024-11-12,Order status has not been updated in 3 days.
+S00699,C0234,2024-12-20,Order status has not been updated in 3 days.
+S00700,C0465,2024-11-27,I still haven’t received my refund.
+S00701,C0239,2025-01-29,I still haven’t received my refund.
+S00702,C0223,2025-02-06,Order status has not been updated in 3 days.
+S00703,C0119,2024-07-16,I can't update my shipping address.
+S00704,C0313,2025-04-11,Items are missing from my delivered package.
+S00705,C0264,2025-06-01,The app crashes when I try to checkout.
+S00706,C0207,2024-10-23,Items are missing from my delivered package.
+S00707,C0095,2024-10-17,Order status has not been updated in 3 days.
+S00708,C0373,2024-11-01,Items are missing from my delivered package.
+S00709,C0222,2024-08-18,Delivery was delayed by over a week.
+S00710,C0366,2024-12-14,I still haven’t received my refund.
+S00711,C0276,2025-03-31,I still haven’t received my refund.
+S00712,C0380,2025-04-29,I can't update my shipping address.
+S00713,C0231,2025-05-27,The app crashes when I try to checkout.
+S00714,C0309,2024-11-22,Order status has not been updated in 3 days.
+S00715,C0119,2024-08-11,Customer support is not responding to my emails.
+S00716,C0268,2025-02-13,I can't update my shipping address.
+S00717,C0433,2025-07-09,I can't update my shipping address.
+S00718,C0273,2024-09-20,The app crashes when I try to checkout.
+S00719,C0064,2025-01-14,My payment method was declined but it's valid.
+S00720,C0298,2024-11-11,Order status has not been updated in 3 days.
+S00721,C0350,2024-11-27,Customer support is not responding to my emails.
+S00722,C0413,2024-10-05,I still haven’t received my refund.
+S00723,C0403,2025-06-25,The app crashes when I try to checkout.
+S00724,C0494,2025-02-20,Customer support is not responding to my emails.
+S00725,C0011,2024-10-25,Delivery was delayed by over a week.
+S00726,C0098,2024-09-21,I can't update my shipping address.
+S00727,C0434,2025-04-28,The app crashes when I try to checkout.
+S00728,C0071,2025-04-04,I still haven’t received my refund.
+S00729,C0364,2025-07-09,Items are missing from my delivered package.
+S00730,C0058,2025-07-01,I still haven’t received my refund.
+S00731,C0290,2024-09-24,Delivery was delayed by over a week.
+S00732,C0251,2025-01-22,The app crashes when I try to checkout.
+S00733,C0276,2025-04-25,Delivery was delayed by over a week.
+S00734,C0050,2024-09-28,Order status has not been updated in 3 days.
+S00735,C0358,2024-10-12,Order status has not been updated in 3 days.
+S00736,C0216,2025-04-24,Items are missing from my delivered package.
+S00737,C0394,2024-10-15,I can't update my shipping address.
+S00738,C0416,2025-06-16,My payment method was declined but it's valid.
+S00739,C0052,2024-10-24,Why was I charged twice for the same order?
+S00740,C0271,2024-10-01,Customer support is not responding to my emails.
+S00741,C0485,2024-10-10,Delivery was delayed by over a week.
+S00742,C0084,2024-09-29,Customer support is not responding to my emails.
+S00743,C0387,2025-06-02,Items are missing from my delivered package.
+S00744,C0293,2024-10-17,Customer support is not responding to my emails.
+S00745,C0126,2025-06-02,Customer support is not responding to my emails.
+S00746,C0296,2025-03-10,I still haven’t received my refund.
+S00747,C0072,2024-11-28,The app crashes when I try to checkout.
+S00748,C0296,2024-09-11,I can't update my shipping address.
+S00749,C0236,2025-05-11,Why was I charged twice for the same order?
+S00750,C0056,2024-08-23,The app crashes when I try to checkout.
+S00751,C0407,2024-08-28,I still haven’t received my refund.
+S00752,C0360,2025-07-05,Customer support is not responding to my emails.
+S00753,C0395,2024-08-12,Why was I charged twice for the same order?
+S00754,C0110,2025-04-01,I still haven’t received my refund.
+S00755,C0192,2025-03-27,I still haven’t received my refund.
+S00756,C0392,2025-01-20,I still haven’t received my refund.
+S00757,C0093,2025-03-08,Order status has not been updated in 3 days.
+S00758,C0350,2024-07-15,Why was I charged twice for the same order?
+S00759,C0056,2025-05-05,I still haven’t received my refund.
+S00760,C0060,2025-06-10,My payment method was declined but it's valid.
+S00761,C0138,2025-02-08,Customer support is not responding to my emails.
+S00762,C0039,2024-07-29,Why was I charged twice for the same order?
+S00763,C0028,2025-06-07,Order status has not been updated in 3 days.
+S00764,C0049,2025-01-16,Delivery was delayed by over a week.
+S00765,C0420,2024-12-04,Delivery was delayed by over a week.
+S00766,C0125,2025-03-11,I can't update my shipping address.
+S00767,C0013,2024-11-12,Promo code is not being applied at checkout.
+S00768,C0480,2025-01-20,My payment method was declined but it's valid.
+S00769,C0036,2025-06-26,Delivery was delayed by over a week.
+S00770,C0101,2025-06-20,Order status has not been updated in 3 days.
+S00771,C0282,2025-06-26,Promo code is not being applied at checkout.
+S00772,C0086,2025-02-21,I still haven’t received my refund.
+S00773,C0004,2025-06-15,I still haven’t received my refund.
+S00774,C0223,2024-10-27,Items are missing from my delivered package.
+S00775,C0338,2025-01-19,Customer support is not responding to my emails.
+S00776,C0448,2024-09-22,Promo code is not being applied at checkout.
+S00777,C0166,2025-05-05,Customer support is not responding to my emails.
+S00778,C0383,2025-07-03,Order status has not been updated in 3 days.
+S00779,C0344,2025-01-27,My payment method was declined but it's valid.
+S00780,C0383,2024-10-29,Promo code is not being applied at checkout.
+S00781,C0376,2024-12-14,Delivery was delayed by over a week.
+S00782,C0471,2024-10-07,My payment method was declined but it's valid.
+S00783,C0278,2025-04-30,Items are missing from my delivered package.
+S00784,C0130,2025-02-21,Customer support is not responding to my emails.
+S00785,C0031,2024-08-31,Customer support is not responding to my emails.
+S00786,C0375,2024-08-03,My payment method was declined but it's valid.
+S00787,C0011,2025-02-02,I still haven’t received my refund.
+S00788,C0476,2025-05-19,Customer support is not responding to my emails.
+S00789,C0302,2024-12-24,Items are missing from my delivered package.
+S00790,C0096,2025-01-14,Delivery was delayed by over a week.
+S00791,C0190,2025-07-12,Why was I charged twice for the same order?
+S00792,C0453,2025-02-08,Delivery was delayed by over a week.
+S00793,C0192,2024-07-25,Delivery was delayed by over a week.
+S00794,C0486,2025-01-24,Customer support is not responding to my emails.
+S00795,C0266,2024-11-24,The app crashes when I try to checkout.
+S00796,C0424,2024-12-12,I still haven’t received my refund.
+S00797,C0128,2025-06-12,Customer support is not responding to my emails.
+S00798,C0238,2025-04-05,I still haven’t received my refund.
+S00799,C0408,2025-05-10,Order status has not been updated in 3 days.
+S00800,C0355,2024-09-18,The app crashes when I try to checkout.

@@ -1,0 +1,501 @@
+customer_id,name,signup_date,age,location,status
+C0001,Allison Hill,2023-08-29,56,Chicago,Active
+C0002,Noah Rhodes,2023-04-25,46,Chicago,Active
+C0003,Angie Henderson,2023-05-19,32,San Jose,At Risk
+C0004,Daniel Wagner,2023-03-15,60,Denver,Active
+C0005,Cristian Santos,2023-11-30,25,Chicago,At Risk
+C0006,Connie Lawrence,2023-02-15,38,Jacksonville,At Risk
+C0007,Abigail Shaffer,2023-01-23,56,San Francisco,Active
+C0008,Gina Moore,2022-10-10,36,Indianapolis,Active
+C0009,Gabrielle Davis,2022-08-03,40,San Antonio,Active
+C0010,Ryan Munoz,2024-02-05,28,Fort Worth,Active
+C0011,Monica Herrera,2022-12-05,28,Los Angeles,Active
+C0012,Jamie Arnold,2023-08-05,41,Houston,Active
+C0013,Lisa Hensley,2023-08-20,53,San Jose,Active
+C0014,Michele Williams,2023-05-10,57,San Antonio,Active
+C0015,Dylan Miller,2024-06-22,41,Indianapolis,Churned
+C0016,Brian Ramirez,2023-09-23,20,Washington,Active
+C0017,Holly Wood,2022-10-13,39,Philadelphia,Churned
+C0018,Derek Zuniga,2023-02-02,19,Denver,Active
+C0019,Lisa Jackson,2024-03-06,41,Phoenix,Active
+C0020,Carla Gray,2023-02-01,61,San Jose,Active
+C0021,Margaret Hawkins DDS,2024-01-11,47,Dallas,Active
+C0022,Patty Perez,2023-06-25,55,Fort Worth,Churned
+C0023,Ethan Adams,2022-12-27,19,Denver,Churned
+C0024,Tommy Walter,2023-11-01,38,Philadelphia,Churned
+C0025,Matthew Foster,2023-02-20,50,Houston,Active
+C0026,Judy Baker,2024-01-04,29,Chicago,Active
+C0027,Justin Baker,2024-06-24,39,Chicago,Churned
+C0028,Stephanie Ross,2023-07-30,61,Houston,Churned
+C0029,Zachary Hicks,2022-12-16,42,Phoenix,At Risk
+C0030,Anthony Rodriguez,2022-10-17,44,San Diego,Active
+C0031,Rebecca Henderson,2022-10-27,59,San Francisco,Active
+C0032,James Ferrell,2024-05-06,45,Chicago,Churned
+C0033,Tricia Valencia,2022-09-09,33,Jacksonville,Active
+C0034,Nathan Maldonado,2023-06-30,32,San Diego,At Risk
+C0035,Debra Davidson,2022-11-25,64,Fort Worth,Churned
+C0036,Jeffrey Chavez,2024-06-11,61,Houston,Active
+C0037,Sherri Baker,2024-01-19,20,Columbus,Churned
+C0038,Cassandra Gaines,2023-06-24,54,Columbus,Churned
+C0039,Elizabeth Fowler,2022-09-20,24,Fort Worth,Active
+C0040,Brittany Farmer,2024-04-03,38,Philadelphia,At Risk
+C0041,Paula Moreno,2023-12-25,26,Indianapolis,Active
+C0042,Fred Smith,2024-04-30,56,Houston,Churned
+C0043,Sherry Decker,2023-03-19,35,San Diego,Active
+C0044,Anthony Humphrey,2023-12-14,21,Indianapolis,Churned
+C0045,Angelica Tucker,2023-04-09,42,Chicago,Active
+C0046,Philip Cannon,2024-01-16,31,Indianapolis,Active
+C0047,John Pierce,2022-09-02,26,Dallas,At Risk
+C0048,Shane Henderson,2023-09-14,43,Los Angeles,Active
+C0049,Joshua Blair,2023-09-08,19,Fort Worth,Active
+C0050,Eric Carney,2023-02-24,37,Washington,At Risk
+C0051,Jessica Holmes,2024-06-05,45,Los Angeles,At Risk
+C0052,Danny Morgan,2023-03-03,64,Washington,Active
+C0053,Crystal Robinson,2024-05-05,24,Austin,Active
+C0054,Mark Perez,2022-11-13,61,Charlotte,Active
+C0055,Shannon Jones,2024-01-17,25,Austin,Active
+C0056,Michael Lewis,2024-01-16,64,Chicago,Active
+C0057,Timothy Duncan,2024-07-03,52,Chicago,Active
+C0058,Richard Aguirre,2024-01-08,31,Jacksonville,Churned
+C0059,Brent Jordan,2023-11-21,34,Phoenix,Churned
+C0060,John Daniel,2022-11-26,53,Washington,Churned
+C0061,Victoria Garcia,2024-03-21,57,San Antonio,Active
+C0062,Gerald Hensley,2023-04-20,21,San Antonio,Active
+C0063,Connor West,2023-08-13,19,Fort Worth,Active
+C0064,Donald Wright,2023-01-04,23,Dallas,Active
+C0065,Jessica Callahan,2022-10-16,59,Fort Worth,Active
+C0066,Amber Kidd,2022-12-17,21,Jacksonville,Churned
+C0067,Tracy House,2024-03-20,46,Fort Worth,Active
+C0068,Carol Tucker,2022-10-29,35,San Jose,Active
+C0069,James Brown,2023-01-13,43,New York,Active
+C0070,William Baker,2024-03-18,61,San Diego,Churned
+C0071,Jordan Henderson,2023-08-01,51,San Francisco,Active
+C0072,Whitney Peters,2022-08-03,27,Fort Worth,Active
+C0073,Brittney Phillips,2023-04-20,53,Chicago,Active
+C0074,Lauren Daniels,2023-09-17,31,Chicago,Churned
+C0075,Amy Silva,2023-10-01,48,Phoenix,Active
+C0076,Sarah Moore,2023-04-26,32,Austin,Churned
+C0077,Angela Lopez,2023-07-12,25,San Antonio,Churned
+C0078,Megan Young,2024-03-29,31,San Jose,Active
+C0079,Steve Sanchez,2023-09-15,40,San Jose,Active
+C0080,Lisa Barnes,2022-10-22,57,Washington,At Risk
+C0081,Kelly Donovan,2023-11-01,38,Los Angeles,Active
+C0082,Mike Allen,2024-05-30,33,Chicago,Active
+C0083,Michael Evans,2022-09-18,62,San Diego,Churned
+C0084,Paul Jones,2022-09-03,35,Austin,At Risk
+C0085,Zachary Ferrell,2023-03-11,64,Fort Worth,At Risk
+C0086,Daniel Baker,2023-05-19,41,San Antonio,Churned
+C0087,Shirley Suarez,2024-01-21,43,Fort Worth,Active
+C0088,Christopher Bass,2024-01-23,42,Los Angeles,Active
+C0089,Lisa Archer,2023-07-20,62,Philadelphia,Churned
+C0090,Aimee Montoya,2023-08-26,58,Dallas,Active
+C0091,Matthew Mcmillan,2023-05-29,46,Washington,Active
+C0092,Brian Rodriguez,2024-03-02,32,Los Angeles,At Risk
+C0093,Denise Jacobs,2023-05-28,62,Seattle,Active
+C0094,Christina Walters,2024-04-13,18,San Francisco,Active
+C0095,John Whitehead,2023-10-03,42,Jacksonville,Active
+C0096,Anna Henderson,2022-09-09,24,San Antonio,Active
+C0097,Aaron Wise,2022-10-19,26,San Antonio,Active
+C0098,Deborah Figueroa,2023-03-17,41,Indianapolis,Active
+C0099,Jessica Smith,2023-11-24,18,Fort Worth,Active
+C0100,Stephen Mckee,2022-09-09,61,Austin,Active
+C0101,Sandra Aguilar,2023-06-28,25,Philadelphia,Churned
+C0102,Cameron Parker,2023-07-10,41,Columbus,Active
+C0103,Rebecca Valencia,2023-12-24,28,Philadelphia,At Risk
+C0104,Christine Wright,2023-08-19,34,Philadelphia,Active
+C0105,Richard Henson,2023-04-07,25,Los Angeles,Active
+C0106,Marc Moore,2022-10-21,52,Washington,Churned
+C0107,Sharon Cherry,2024-05-25,52,Charlotte,Active
+C0108,Sierra Johnson,2024-04-17,50,Indianapolis,At Risk
+C0109,Evelyn Galvan,2024-03-11,22,San Diego,Active
+C0110,Sharon Cochran,2023-09-15,59,Phoenix,At Risk
+C0111,Richard Rodriguez,2023-11-22,56,Indianapolis,Active
+C0112,Shannon Walker,2023-10-13,58,Washington,Churned
+C0113,Julia Torres,2022-12-02,45,New York,Active
+C0114,Crystal Johnson,2024-03-01,24,Seattle,At Risk
+C0115,Garrett Lin,2022-10-22,26,Charlotte,Active
+C0116,Diana May,2023-06-15,25,Phoenix,Active
+C0117,William Herrera,2023-08-08,29,San Antonio,At Risk
+C0118,Ashley Waller,2024-06-20,51,Seattle,Active
+C0119,Victor Baker,2024-05-18,50,Philadelphia,Active
+C0120,Jeffrey Chandler,2022-08-26,40,Phoenix,Active
+C0121,Larry Dixon,2024-04-19,41,Denver,Active
+C0122,Kenneth Scott,2022-10-18,54,San Jose,Active
+C0123,April Frost,2023-08-20,52,Charlotte,Active
+C0124,Michelle Harmon,2022-11-09,61,San Jose,At Risk
+C0125,Helen Jones,2023-03-07,57,San Francisco,Active
+C0126,Erin Edwards,2022-11-18,39,Jacksonville,Active
+C0127,Michelle Evans,2022-11-16,44,Seattle,At Risk
+C0128,Jason Powell,2023-03-21,52,New York,Churned
+C0129,Cameron Fisher,2024-07-09,18,San Francisco,Active
+C0130,Megan Orr,2024-01-15,52,Philadelphia,Active
+C0131,Elizabeth Kelley,2023-01-05,54,Chicago,Active
+C0132,Dustin Jordan,2023-04-08,64,Los Angeles,Active
+C0133,Mary Marshall,2023-08-21,31,Los Angeles,Active
+C0134,Daniel Kennedy,2024-06-08,20,Fort Worth,Active
+C0135,Rebecca Jackson,2023-02-19,18,Dallas,Active
+C0136,Jose Schultz,2024-05-01,22,San Francisco,Active
+C0137,Robert Potter,2022-09-13,43,Phoenix,At Risk
+C0138,Courtney Gonzalez,2023-01-24,31,San Antonio,At Risk
+C0139,David Alvarez,2022-12-13,56,Fort Worth,Active
+C0140,Angel Perry,2023-11-19,44,Washington,Active
+C0141,Cheyenne Horton,2023-09-14,26,Fort Worth,Active
+C0142,David Douglas Jr.,2023-02-12,32,San Antonio,Churned
+C0143,Patricia Rodriguez,2022-10-19,32,San Jose,Active
+C0144,Christopher Rubio,2023-11-11,43,Charlotte,Active
+C0145,Amber Wright,2023-03-06,59,Philadelphia,At Risk
+C0146,Joyce Solis,2023-11-03,30,Phoenix,Churned
+C0147,Victoria Larson,2023-09-01,49,Los Angeles,At Risk
+C0148,Stephanie Salazar,2022-09-24,56,Charlotte,Churned
+C0149,Kathy Rivas,2023-08-08,49,San Francisco,Active
+C0150,Stephanie Manning,2023-11-23,21,Denver,Active
+C0151,David Wright,2022-11-21,47,Dallas,At Risk
+C0152,Pamela Boyd,2023-10-16,54,Denver,Churned
+C0153,Denise Jones,2023-10-08,40,San Antonio,Active
+C0154,Devon Flores,2022-11-10,56,Houston,Active
+C0155,Brenda Hall,2022-11-23,62,Chicago,Active
+C0156,Michelle Brown,2023-12-07,32,Washington,Churned
+C0157,Joshua Perry,2023-11-11,60,Austin,At Risk
+C0158,Jason Stein,2024-01-24,46,New York,Active
+C0159,Melissa Gates,2024-06-13,53,Philadelphia,Active
+C0160,Jamie Smith,2023-10-27,30,Austin,Active
+C0161,Paul Castaneda,2023-04-02,49,New York,At Risk
+C0162,Jennifer Adkins,2024-04-28,24,San Antonio,Churned
+C0163,Lindsey Walker,2024-06-30,39,Philadelphia,Churned
+C0164,Jeffrey Johnson,2023-09-24,45,Columbus,Active
+C0165,Michael Powell,2022-08-14,19,Los Angeles,Active
+C0166,John Anderson,2024-04-14,59,Houston,Active
+C0167,Alyssa Long,2024-05-14,62,Austin,Active
+C0168,Alyssa Day,2022-08-05,23,Charlotte,Churned
+C0169,Joel Williams,2022-09-15,45,Seattle,Churned
+C0170,Daniel Murphy,2022-08-18,45,New York,At Risk
+C0171,Jamie Walton,2023-11-24,61,Chicago,At Risk
+C0172,Darlene Miller,2024-03-03,61,Chicago,Active
+C0173,Joshua Cooke,2023-10-04,37,San Antonio,Churned
+C0174,Matthew Harrington,2023-02-04,47,New York,At Risk
+C0175,Nicole Herring,2023-12-01,28,Austin,Churned
+C0176,Alex Hernandez,2022-12-24,45,Philadelphia,Active
+C0177,Michael Elliott,2024-02-29,42,Washington,Active
+C0178,Michael Wang,2023-10-01,56,Chicago,Active
+C0179,Lawrence Adkins,2023-06-02,50,Denver,At Risk
+C0180,Robert Oconnell,2023-11-06,18,Los Angeles,Active
+C0181,Alexander Collins,2023-11-22,44,Seattle,Active
+C0182,Tina Sanders,2022-08-06,30,Jacksonville,Active
+C0183,Angela Vaughn,2023-08-04,58,San Jose,Active
+C0184,Ashley Barton,2024-06-03,20,Phoenix,Active
+C0185,Lindsay Martinez,2023-11-13,56,Dallas,Active
+C0186,Dr. Hannah Patterson,2023-09-10,23,Los Angeles,Active
+C0187,Jonathan Peterson,2023-02-23,25,Los Angeles,Active
+C0188,Samantha Garcia,2023-11-24,44,Philadelphia,Churned
+C0189,Madison Poole,2023-03-05,26,San Jose,Active
+C0190,Jessica Gross,2023-07-24,54,Seattle,Churned
+C0191,Debra Morton,2023-01-20,50,Jacksonville,Active
+C0192,Karen Graham,2024-03-30,59,Houston,Active
+C0193,Debra Christian,2024-04-01,61,Indianapolis,Churned
+C0194,Angelica Keith,2023-12-28,41,Charlotte,Active
+C0195,John Bishop,2023-05-25,32,Philadelphia,Active
+C0196,Allen Rosales,2023-03-02,49,San Francisco,Active
+C0197,Daniel Salinas,2023-07-01,49,Indianapolis,Churned
+C0198,Spencer Haynes,2022-09-08,41,Chicago,Active
+C0199,Adam Vaughan,2023-12-30,58,San Jose,Churned
+C0200,Nathan Freeman,2022-08-29,29,Phoenix,Active
+C0201,Melissa Brewer,2022-11-13,56,Columbus,Active
+C0202,Ricky Davis II,2023-06-20,19,Fort Worth,Active
+C0203,Elizabeth Perkins,2023-06-01,20,Philadelphia,Active
+C0204,Joseph Coleman,2023-07-25,54,Jacksonville,Active
+C0205,Erin Warner,2023-07-09,34,San Diego,Active
+C0206,David Martinez,2022-12-19,19,Phoenix,Active
+C0207,Bryan Herrera,2023-04-04,19,Charlotte,At Risk
+C0208,Cathy Robinson,2023-10-28,45,San Francisco,Active
+C0209,Dr. William Warren,2022-11-02,40,New York,Active
+C0210,Brian Lee,2023-03-13,54,San Francisco,Churned
+C0211,Christopher Smith,2024-05-13,49,Phoenix,Active
+C0212,Denise Mccann,2024-01-22,50,Chicago,Active
+C0213,Melissa Martinez,2023-03-19,18,Washington,Churned
+C0214,Katherine Salas,2024-02-04,36,Charlotte,At Risk
+C0215,Julie Alexander,2024-05-12,19,Fort Worth,Active
+C0216,Anthony Everett,2023-04-08,61,San Francisco,At Risk
+C0217,Rodney Morales,2023-05-19,43,Austin,Active
+C0218,Mark Brown,2022-10-23,49,Los Angeles,Active
+C0219,Justin Torres,2024-02-24,23,Philadelphia,Active
+C0220,Bailey Duran DDS,2023-04-27,49,Philadelphia,At Risk
+C0221,Courtney Mills,2023-08-17,21,Columbus,Active
+C0222,Jeremy Dalton,2023-09-23,28,Austin,Active
+C0223,Elizabeth Oliver DDS,2022-10-04,34,San Diego,Active
+C0224,Theresa Clark,2023-03-18,55,San Diego,Active
+C0225,Matthew Moore,2023-01-17,41,New York,Active
+C0226,Benjamin Smith,2023-07-11,22,San Antonio,Active
+C0227,Kirk Carter,2022-10-17,51,Philadelphia,Active
+C0228,Michael Warner,2023-02-06,23,San Diego,Active
+C0229,Michael Bradshaw,2023-06-28,39,Denver,Active
+C0230,Lori Guerrero,2023-01-22,28,Washington,Active
+C0231,Jessica Stephens,2022-10-31,33,San Diego,Active
+C0232,Susan Serrano,2022-09-27,50,Columbus,Active
+C0233,Christopher Parker,2022-08-22,26,Seattle,Churned
+C0234,Laura Roberts,2023-02-24,23,San Francisco,Active
+C0235,Michael Lyons,2023-05-08,33,Dallas,Active
+C0236,Kathryn Snyder,2024-05-15,46,Charlotte,Active
+C0237,Andrew Reynolds,2023-11-03,20,San Jose,Active
+C0238,David Davis,2023-06-03,37,San Francisco,Active
+C0239,Sara Johnston,2023-01-22,53,Houston,Active
+C0240,Yvonne Chambers,2024-05-16,36,Washington,Active
+C0241,Andrew Avila,2024-06-13,43,Fort Worth,Active
+C0242,Matthew Moon,2022-11-15,20,Phoenix,Active
+C0243,Kevin Walters,2024-04-05,36,San Antonio,Active
+C0244,Brandon Bailey MD,2023-03-25,37,Dallas,Active
+C0245,Shannon Rivera,2024-07-08,49,San Diego,Active
+C0246,Donna Landry,2023-10-05,24,San Francisco,Active
+C0247,Krista Gibson,2024-01-25,58,Philadelphia,Active
+C0248,Frank Cordova,2023-03-13,50,San Francisco,Active
+C0249,Jose Travis,2022-12-08,57,Philadelphia,Active
+C0250,Kimberly Gutierrez,2024-02-26,56,Columbus,Churned
+C0251,Isaiah Avila,2022-11-14,35,New York,Active
+C0252,Olivia Harris,2023-08-05,57,Dallas,Active
+C0253,Tanya Kim,2023-08-17,18,Fort Worth,Churned
+C0254,Barbara Dudley,2023-07-11,28,Denver,At Risk
+C0255,Cynthia Moore,2023-08-05,45,Indianapolis,Active
+C0256,Kristen Davis,2024-05-26,42,Austin,Active
+C0257,Susan Murray MD,2023-03-10,40,San Diego,Churned
+C0258,Kathleen Moran,2023-08-04,48,Phoenix,Churned
+C0259,Denise Davenport,2022-08-01,47,San Jose,Active
+C0260,Mrs. Kristen Reyes,2022-09-21,59,San Antonio,Active
+C0261,Katie Suarez,2023-05-15,52,San Jose,Active
+C0262,Desiree Tyler,2023-08-10,24,Houston,Active
+C0263,Timothy Romero,2023-07-04,33,Dallas,Active
+C0264,Diane Evans,2023-01-16,43,Columbus,Active
+C0265,Yvonne Burns,2022-12-28,19,Los Angeles,Active
+C0266,Joshua Reed,2023-10-10,18,Dallas,Churned
+C0267,Kimberly Gibson,2023-04-14,29,New York,Active
+C0268,Colin Terry,2022-08-20,22,San Jose,Active
+C0269,Cynthia Rowe,2022-08-22,54,San Jose,Churned
+C0270,Patrick Thornton,2023-02-17,49,Washington,Churned
+C0271,Jasmin Alvarado,2023-08-02,26,Chicago,Active
+C0272,Veronica Simpson,2023-10-21,58,Philadelphia,Active
+C0273,Jonathan Lawrence,2024-05-29,52,Philadelphia,Active
+C0274,Shelly Alexander,2024-04-28,36,Los Angeles,Active
+C0275,Joyce Bowen,2023-12-04,33,Seattle,Active
+C0276,Matthew Moore,2023-12-18,20,Los Angeles,Active
+C0277,Wayne Morgan,2023-07-14,37,Jacksonville,Active
+C0278,Marie Christian,2023-02-20,41,Phoenix,Active
+C0279,Shannon James,2023-09-03,50,Washington,Active
+C0280,Nathan Malone,2022-07-20,41,San Antonio,Active
+C0281,Amanda Jones,2024-05-02,28,San Francisco,Active
+C0282,Tammie Bright,2022-10-05,25,Washington,Active
+C0283,Jessica Garcia,2023-06-13,53,New York,Active
+C0284,Shelia Wallace,2022-10-26,55,New York,Churned
+C0285,Stephanie Williams,2024-05-29,57,Indianapolis,Active
+C0286,Elaine Brooks,2023-02-04,37,New York,Active
+C0287,Joseph Knight,2024-01-30,52,Washington,Churned
+C0288,Carolyn Miller,2023-04-24,42,Fort Worth,Active
+C0289,Lisa Allen,2024-02-27,52,Dallas,Active
+C0290,Briana Murray,2023-05-23,42,Charlotte,Active
+C0291,David Smith,2023-04-24,46,Chicago,Active
+C0292,Stephanie Byrd,2022-08-18,35,Columbus,Churned
+C0293,Jeremy Reed,2023-05-21,63,Austin,Active
+C0294,Margaret Coleman,2022-08-22,35,Jacksonville,Active
+C0295,Ryan Gonzalez,2023-09-29,19,Fort Worth,Active
+C0296,John Young,2023-09-23,52,Fort Worth,Active
+C0297,Laura Haney,2022-12-12,33,New York,Active
+C0298,William Barrett,2023-04-21,58,San Jose,Active
+C0299,Keith Jennings,2023-09-16,53,Chicago,Active
+C0300,Amber Obrien,2023-02-23,50,Houston,At Risk
+C0301,Tanner Mitchell DDS,2022-09-09,21,San Francisco,Active
+C0302,Heather Fields,2023-05-10,50,San Diego,Active
+C0303,Megan Le,2023-08-09,31,San Francisco,Active
+C0304,Sara Fuller,2023-06-28,38,Indianapolis,Active
+C0305,Maria Parker,2024-02-27,37,Denver,Active
+C0306,Kevin Oconnor,2023-09-14,25,Charlotte,Active
+C0307,Edward Burgess,2023-02-16,24,San Francisco,Active
+C0308,Carlos Ryan,2024-04-15,20,Charlotte,Active
+C0309,Kiara Mcintyre,2023-11-10,34,Los Angeles,Active
+C0310,Dawn Summers,2023-12-24,50,Austin,Churned
+C0311,Dr. Paul Morgan,2023-10-31,29,New York,Active
+C0312,Victor Taylor,2022-10-14,39,Charlotte,Active
+C0313,Shannon Ramsey,2022-10-21,39,Denver,Active
+C0314,Tracy Ballard,2022-09-27,63,Houston,At Risk
+C0315,Richard Smith,2023-05-15,47,Austin,Active
+C0316,Jordan Chambers,2023-04-29,55,Phoenix,Active
+C0317,Lauren Carson,2024-03-22,55,Chicago,At Risk
+C0318,Ashley Hall,2023-04-03,62,Fort Worth,Churned
+C0319,Stephen Hoffman,2023-09-20,25,San Jose,Churned
+C0320,Connie Brown,2024-07-12,44,Austin,Active
+C0321,Susan Turner,2023-04-23,44,Seattle,Active
+C0322,Charles Shah,2024-02-20,51,Los Angeles,Active
+C0323,Johnathan Davis,2022-11-03,38,San Antonio,At Risk
+C0324,Brandy Chavez,2022-12-15,47,Dallas,Active
+C0325,Natalie Bautista,2023-10-24,50,San Jose,Active
+C0326,Patrick Moore,2023-08-13,45,Seattle,Active
+C0327,Brett Burns,2023-05-21,64,San Antonio,Churned
+C0328,Trevor Johnson,2023-08-06,50,San Antonio,Active
+C0329,Jeremy Sampson,2022-08-14,22,Chicago,Active
+C0330,Ariana Jennings,2022-08-18,36,Jacksonville,Active
+C0331,Vanessa Howard,2022-08-13,21,San Antonio,Active
+C0332,Colton Martinez,2022-10-28,52,Indianapolis,Active
+C0333,Jordan Bates,2024-01-19,34,New York,Active
+C0334,Linda Smith,2023-03-29,61,Phoenix,Active
+C0335,Dana Martinez,2024-03-29,45,San Francisco,Active
+C0336,Andrea Hubbard,2023-07-16,47,Charlotte,Active
+C0337,Daniel Kane,2023-08-21,46,Los Angeles,Active
+C0338,Charles Lester,2023-07-03,63,Dallas,Active
+C0339,Scott Thomas,2022-11-06,23,San Antonio,Active
+C0340,David Thompson,2023-10-27,52,Houston,Active
+C0341,Allison Smith,2024-06-06,58,Washington,Active
+C0342,Cynthia Morris,2023-08-18,54,Seattle,Active
+C0343,Anthony Harmon,2022-10-30,41,Houston,Active
+C0344,Nichole Alvarez,2023-03-25,46,Fort Worth,At Risk
+C0345,Kayla Rodriguez,2024-07-06,63,New York,Active
+C0346,Theresa Williams,2023-11-02,48,Chicago,Churned
+C0347,Sharon Boyd,2023-03-18,52,San Francisco,Active
+C0348,Victor Brown,2022-11-17,50,Houston,Active
+C0349,James Parks,2023-05-15,38,San Francisco,Churned
+C0350,Theodore Jones Jr.,2023-11-04,49,Denver,Active
+C0351,Ana Hill,2024-02-08,40,New York,Active
+C0352,Kimberly Nguyen,2024-04-28,50,Phoenix,Active
+C0353,Kerry Chavez DDS,2023-03-03,20,Denver,Active
+C0354,Michael Farrell,2023-10-18,35,Austin,At Risk
+C0355,Patricia Le,2023-04-01,42,Fort Worth,Churned
+C0356,Jesse Perez,2023-08-12,59,Washington,At Risk
+C0357,Jesse Perry,2024-04-17,48,Phoenix,Active
+C0358,Jeffery Ortega,2023-08-13,20,Houston,Churned
+C0359,Christian Leblanc,2023-08-31,57,Houston,At Risk
+C0360,Ronald Davis,2023-07-29,63,Houston,Active
+C0361,Parker Cain,2024-01-15,41,Houston,Active
+C0362,Laurie Hoffman,2023-09-24,49,Washington,Churned
+C0363,Bryan Gomez,2023-03-03,64,Seattle,Active
+C0364,Nicole Parrish,2023-07-17,39,Seattle,Churned
+C0365,Tracy Burke,2024-04-07,40,San Francisco,Active
+C0366,Kenneth Lewis,2022-07-26,19,Dallas,Churned
+C0367,Courtney Rodriguez,2023-04-26,44,Seattle,Active
+C0368,Holly Farmer,2023-03-28,59,Los Angeles,Active
+C0369,Renee Bruce,2023-12-19,19,Houston,Active
+C0370,Sabrina Austin,2022-10-07,43,Jacksonville,Churned
+C0371,Allison Hickman,2023-06-02,34,San Antonio,Active
+C0372,Debra White,2023-10-10,57,Charlotte,Active
+C0373,Ellen Morgan,2023-03-09,50,San Antonio,Active
+C0374,Sergio Knight,2024-03-23,26,Indianapolis,Churned
+C0375,Charles Schultz,2024-06-11,60,San Francisco,Active
+C0376,Paul Lewis,2024-01-28,56,Denver,Churned
+C0377,Glen Wood,2024-05-21,46,Dallas,Active
+C0378,Paula Bradley,2023-12-30,59,Columbus,Active
+C0379,Anthony Moore,2023-11-14,43,Indianapolis,Active
+C0380,Megan Nelson,2022-08-03,52,Phoenix,Active
+C0381,Karla Ramos,2023-10-20,42,Los Angeles,Churned
+C0382,Paul Wilson,2023-07-17,41,Washington,Active
+C0383,Douglas Gregory,2023-02-05,30,San Francisco,Active
+C0384,Mr. Andrew Foster,2023-12-05,24,Columbus,Churned
+C0385,Aimee Turner,2024-03-13,53,Columbus,Active
+C0386,Chad Scott,2024-03-07,62,New York,Active
+C0387,Adam Burgess,2023-10-06,37,Chicago,At Risk
+C0388,James Padilla,2023-10-05,18,San Antonio,Active
+C0389,Sandra Drake,2023-01-06,25,Charlotte,Active
+C0390,Scott Williams,2024-01-25,63,Denver,At Risk
+C0391,Thomas Atkins,2022-08-22,33,Washington,Active
+C0392,Laura Mckinney,2023-10-10,31,Los Angeles,Active
+C0393,Brian Smith,2023-07-22,29,Denver,Active
+C0394,Robert Montgomery,2022-11-23,40,Dallas,Churned
+C0395,Tamara Davis,2023-08-25,32,Denver,Active
+C0396,Dana Chapman,2023-11-14,45,Phoenix,Active
+C0397,Jennifer Collins,2024-01-25,51,Seattle,Churned
+C0398,Gary Jackson,2023-11-07,19,San Francisco,Churned
+C0399,Ashley Hicks,2024-03-06,49,Houston,Active
+C0400,Hannah Luna,2024-04-27,40,Jacksonville,Active
+C0401,Robin Young,2023-05-05,39,San Antonio,Active
+C0402,Craig Morrison,2022-11-05,42,Columbus,Churned
+C0403,Mary Thompson,2024-04-12,39,Jacksonville,Active
+C0404,Kathleen Webster,2023-12-24,39,Chicago,Active
+C0405,Joann Glass,2023-01-18,59,Phoenix,Churned
+C0406,Madison Weber,2022-08-07,23,Indianapolis,Churned
+C0407,Lori Hernandez,2023-10-01,32,San Jose,Active
+C0408,Jeremy Turner,2024-01-09,60,San Jose,Churned
+C0409,Anthony Romero,2022-10-07,54,Austin,Active
+C0410,Jesse Brown,2022-12-09,50,Indianapolis,Churned
+C0411,Angela Lin,2022-07-28,25,Phoenix,Active
+C0412,Lisa Hunter,2023-06-21,61,Fort Worth,Active
+C0413,Julian Conner,2023-03-14,61,San Jose,Churned
+C0414,Joanna Pacheco,2023-06-04,22,Dallas,Active
+C0415,Erica Alvarez,2022-11-08,56,Indianapolis,Active
+C0416,Antonio Garcia,2023-05-30,21,New York,Churned
+C0417,Gwendolyn Klein,2024-01-01,23,Houston,Churned
+C0418,Carrie Wright,2022-12-19,62,Houston,Active
+C0419,Jeffrey Mills,2023-05-28,49,Seattle,Active
+C0420,Jake Campbell,2023-08-07,47,Dallas,Active
+C0421,George Harper,2024-03-06,64,Seattle,Active
+C0422,Maria Jones,2023-10-31,52,Columbus,Active
+C0423,Michael Mitchell,2024-06-27,57,Charlotte,Active
+C0424,Mary Escobar,2023-07-15,33,Philadelphia,At Risk
+C0425,Felicia Aguilar,2024-05-21,30,San Jose,Active
+C0426,Gregory Ponce,2024-05-02,59,Charlotte,Active
+C0427,Jenna Larson,2024-02-05,47,Houston,Active
+C0428,Emily Bennett,2024-01-29,36,Seattle,At Risk
+C0429,Robin Santiago,2022-08-31,34,Seattle,Active
+C0430,Nancy Jennings,2024-01-13,36,Indianapolis,Active
+C0431,Maria Henderson,2022-10-29,45,Jacksonville,Active
+C0432,Jack White,2023-08-20,43,San Antonio,Active
+C0433,Travis Tucker,2022-12-22,54,San Francisco,Active
+C0434,Chad Jones,2023-09-22,43,Austin,Churned
+C0435,Ashley Wise,2023-03-23,40,Columbus,At Risk
+C0436,Sophia Johnson,2023-12-10,26,Chicago,Active
+C0437,Ralph Anderson,2023-07-20,29,Denver,Active
+C0438,Christopher Guerra,2023-08-26,18,Seattle,At Risk
+C0439,Rhonda Martin,2023-05-02,18,San Jose,Churned
+C0440,Jason Rhodes,2023-03-14,64,Philadelphia,Active
+C0441,Jeremy Mitchell,2022-11-25,51,Fort Worth,Active
+C0442,Joann Ferguson,2023-07-06,49,San Jose,Active
+C0443,Robert Harrison,2024-06-21,42,Seattle,Active
+C0444,Holly Valentine,2023-09-01,57,Washington,Churned
+C0445,Mrs. Diane Reyes,2023-04-05,62,San Francisco,At Risk
+C0446,Tracy Montoya,2023-09-11,18,Philadelphia,At Risk
+C0447,Brenda Wright,2023-04-15,33,Fort Worth,Active
+C0448,Shelly Spencer,2023-12-20,56,Houston,Active
+C0449,Ryan Rosales,2024-03-04,22,Columbus,At Risk
+C0450,Phillip Nelson,2024-05-17,39,New York,Churned
+C0451,Brittany Kim,2024-01-24,46,Washington,Active
+C0452,Courtney Hayes,2023-12-24,20,Phoenix,At Risk
+C0453,Alexander Brown,2023-11-25,29,San Diego,Churned
+C0454,Cynthia Vang,2024-03-29,43,Jacksonville,Active
+C0455,Alfred Galvan,2024-01-03,33,Los Angeles,Active
+C0456,Marie Moody,2023-02-04,54,Jacksonville,Active
+C0457,Dustin Gallegos,2023-10-30,39,Phoenix,Active
+C0458,Brenda Thornton,2023-07-25,46,Phoenix,Active
+C0459,Aaron Miller,2022-12-10,31,Fort Worth,Churned
+C0460,Ruben Dunn,2023-01-21,45,Dallas,Active
+C0461,Kelsey Rodriguez,2023-02-15,22,San Jose,Active
+C0462,Eric Williams,2023-09-20,64,New York,Active
+C0463,Riley Bryant,2023-03-02,47,Chicago,Active
+C0464,Taylor Carlson,2023-01-04,63,Seattle,At Risk
+C0465,Jose Allen,2023-03-02,22,Jacksonville,Active
+C0466,Jeffrey Mendez,2024-03-03,29,Chicago,Active
+C0467,Jason Beck,2023-02-23,33,Dallas,Churned
+C0468,William Jones,2024-01-12,43,Los Angeles,Active
+C0469,Katie Mcneil,2022-12-21,43,Chicago,Active
+C0470,Jeanette Harrison,2024-01-01,38,Columbus,Active
+C0471,Veronica King,2024-01-12,56,Houston,Active
+C0472,Richard Cooper,2023-07-28,53,Denver,Active
+C0473,Lori Ingram,2023-03-17,50,Fort Worth,Active
+C0474,Evelyn Williams,2023-07-21,47,San Antonio,Active
+C0475,Robin Thompson,2023-04-10,54,Jacksonville,At Risk
+C0476,Julie Dominguez,2023-09-22,40,Chicago,Active
+C0477,Robin Brown,2024-07-08,27,Dallas,Active
+C0478,Judith Carter,2024-07-08,22,Los Angeles,Active
+C0479,Curtis Williams,2024-03-22,53,Dallas,Active
+C0480,Kaylee Hays,2024-01-25,51,Jacksonville,Active
+C0481,Dawn Mullins,2023-02-11,48,Jacksonville,Active
+C0482,Howard Norman,2023-02-22,27,Charlotte,At Risk
+C0483,Evelyn Martinez,2022-10-16,36,Los Angeles,Active
+C0484,Steve Paul,2023-10-02,49,Seattle,Active
+C0485,Jasmine Beltran,2023-12-21,18,Fort Worth,Active
+C0486,Jonathan Glass MD,2023-09-08,22,Columbus,At Risk
+C0487,Monica Miller,2023-05-04,62,Phoenix,Active
+C0488,Samantha Gardner,2024-06-08,21,San Jose,Active
+C0489,Bobby Guerrero,2023-05-16,33,Jacksonville,Active
+C0490,Lance Simmons,2024-04-09,41,San Jose,Churned
+C0491,Heather Williams,2023-04-08,33,Austin,Active
+C0492,Heather Bolton,2024-03-05,19,Los Angeles,Churned
+C0493,William Gould,2024-03-29,45,Phoenix,Active
+C0494,Mark Cox,2022-11-04,49,San Antonio,Active
+C0495,Meghan Cisneros,2023-02-24,44,Philadelphia,Active
+C0496,Lawrence Harrington,2022-08-15,37,Chicago,Active
+C0497,Austin Osborne,2023-02-22,41,Fort Worth,Active
+C0498,James Bradley,2024-01-19,29,Chicago,Active
+C0499,Meghan Rush,2022-09-13,52,Philadelphia,Churned
+C0500,Phillip Berry,2023-04-09,50,Austin,Active
