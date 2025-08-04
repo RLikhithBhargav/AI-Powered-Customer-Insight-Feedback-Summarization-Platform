@@ -1,0 +1,71 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: customer_insights
+    schema: raw_data
+    tables:
+      - name: customers
+      - name: transactions
+      - name: support_tickets
+      - name: feedback
+
+models:
+  - name: stg_customers
+    description: Cleaned and staged view of customer data
+    columns:
+      - name: customer_id
+        description: Unique customer ID
+        tests:
+          - not_null
+          - unique
+      - name: signup_date
+        tests:
+          - not_null
+      - name: age
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 18
+              max_value: 100
+      - name: status
+        tests:
+          - accepted_values:
+              values: ["Active", "Churned", "At Risk"]
+
+  - name: stg_transactions
+    description: Cleaned and staged view of transaction data
+    columns:
+      - name: txn_id
+        tests:
+          - not_null
+          - unique
+      - name: amount
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              min_value: 0.01
+              max_value: 10000
+
+  - name: stg_support_tickets
+    description: Cleaned and staged view of support tickets
+    columns:
+      - name: ticket_id
+        tests:
+          - not_null
+          - unique
+      - name: created_at
+        tests:
+          - not_null
+
+  - name: stg_feedback
+    description: Cleaned and staged view of customer feedback
+    columns:
+      - name: feedback_id
+        tests:
+          - not_null
+          - unique
+      - name: rating
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 1
+              max_value: 5
