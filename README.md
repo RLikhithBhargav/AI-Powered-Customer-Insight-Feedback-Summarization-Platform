@@ -98,9 +98,9 @@ cd airflow
 docker-compose up airflow-init
 docker-compose up
 ```
-Visit: http://localhost:8080
-Login: airflow / airflow
-Your DAG will appear as genai_customer_pipeline_dag
+- Visit: http://localhost:8080
+- Login: airflow / airflow
+- Your DAG will appear as genai_customer_pipeline_dag
 
 ## 📊 Streamlit Dashboard
 ```bash
@@ -114,9 +114,9 @@ Includes:
 - Drill-down tables per customer
 
 ## 💬 Example Chatbot Prompts
-“What are the recurring complaints from customers?”
-“Summarize what customers are saying about refunds.”
-“What are the most praised features in customer comments?”
+- “What are the recurring complaints from customers?”
+- “Summarize what customers are saying about refunds.”
+- “What are the most praised features in customer comments?”
 
 (The chatbot uses LangChain + OpenAI + FAISS vector DB)
 
@@ -124,3 +124,6 @@ Includes:
 - The dashboard and chatbot are intentionally decoupled from the DAG for modularity
 - The OpenAI summaries in DAG are quick + stateless, suitable for automation
 - The LangChain pipeline supports rich, real-time user queries using stored feedback vectors
+
+## ✅ Conclusion
+This project tackles the challenge of extracting actionable insights from scattered customer data by combining data engineering and generative AI. From raw ingestion to AI-driven feedback summaries and automated dashboards, it demonstrates a practical, scalable solution. By building both a modular stack and an orchestrated pipeline, I was able to explore and showcase two distinct yet complementary approaches to solving this real-world problem.
