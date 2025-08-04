@@ -1,0 +1,9 @@
+openai==0.28.1
+tqdm
+pandas
+python-dotenv
+snowflake-connector-python
+timedelta
+dbt-snowflake
+
+
