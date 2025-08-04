@@ -1,0 +1,614 @@
+feedback_id,customer_id,date,rating,comment,summary
+F00001,C0428,2025-01-08,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00002,C0112,2024-09-28,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00003,C0316,2025-06-28,4,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the advertised description.
+F00004,C0446,2025-03-20,5,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00005,C0343,2024-08-03,2,App is very slow and keeps freezing.,"Customer feedback: App is very slow and keeps freezing. 
+
+Summary: App is slow and freezes frequently."
+F00006,C0145,2024-12-11,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00007,C0065,2024-12-07,4,Website UI is confusing to navigate.,Customer found the website UI difficult to navigate.
+F00008,C0247,2024-09-10,3,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00009,C0223,2024-11-03,4,Very satisfied with the product and support.,The customer is very satisfied with both the product and support.
+F00010,C0479,2025-01-25,4,"Great shopping experience, will definitely return.",Customer had a great experience and plans to return.
+F00011,C0490,2024-08-06,5,App is very slow and keeps freezing.,Customer feedback: The app is slow and frequently freezes.
+F00012,C0313,2024-10-08,2,Product quality is not as described.,The product quality does not match the description.
+F00013,C0439,2024-09-22,4,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00014,C0106,2025-03-13,5,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00015,C0181,2024-09-26,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00016,C0184,2024-11-20,3,Disappointed with the return process.,Customer is disappointed with the return process.
+F00017,C0226,2025-03-25,3,App is very slow and keeps freezing.,Customer finds the app slow and prone to freezing.
+F00018,C0265,2025-04-19,1,Product quality is not as described.,The product quality does not meet the description provided.
+F00019,C0278,2024-12-30,5,Customer service was very helpful and quick.,The customer found the customer service to be efficient and helpful.
+F00020,C0397,2024-07-22,2,App is very slow and keeps freezing.,Customer feedback indicates that the app is slow and frequently freezes.
+F00021,C0089,2025-06-16,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00022,C0176,2024-12-31,3,Product quality is not as described.,Customer feels that the product they received does not meet the quality described.
+F00023,C0018,2024-08-08,2,I had to cancel my order due to a technical glitch.,Order was canceled due to technical issues.
+F00024,C0371,2025-06-05,5,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00025,C0460,2024-10-16,1,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description.
+F00026,C0424,2025-03-03,3,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of a technical issue.
+F00027,C0401,2025-02-03,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00028,C0399,2024-11-01,2,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00029,C0106,2025-02-14,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00030,C0271,2024-09-13,5,Very satisfied with the product and support.,Customer is highly satisfied with both the product and support received.
+F00031,C0463,2024-09-06,5,Customer service was very helpful and quick.,The customer found the customer service to be efficient and responsive.
+F00032,C0319,2025-02-10,5,I had to cancel my order due to a technical glitch.,Order was canceled due to technical glitch.
+F00033,C0167,2024-11-13,4,Product quality is not as described.,Customer feedback indicates that the product quality does not match the description provided.
+F00034,C0013,2024-08-04,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00035,C0337,2024-08-25,3,Love the fast delivery and packaging.,Customer appreciates the quick delivery and packaging.
+F00036,C0032,2025-04-04,5,Very satisfied with the product and support.,Customer is very pleased with the product and support provided.
+F00037,C0393,2024-08-07,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00038,C0040,2024-12-19,2,Customer service was very helpful and quick.,Customer service was efficient and attentive.
+F00039,C0148,2025-01-30,5,Appreciate the quick refund process.,Customer appreciated the quick refund process.
+F00040,C0218,2025-02-05,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00041,C0219,2024-07-19,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00042,C0469,2025-03-10,5,Love the fast delivery and packaging.,Customer appreciates the quick delivery and packaging.
+F00043,C0082,2025-04-18,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00044,C0333,2024-09-16,2,Website UI is confusing to navigate.,Customer feedback: The website UI is confusing to navigate.
+F00045,C0208,2025-04-20,2,Customer service was very helpful and quick.,The customer service was efficient and provided great assistance.
+F00046,C0201,2025-07-10,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00047,C0447,2024-11-14,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return.
+F00048,C0332,2024-12-03,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00049,C0428,2024-07-27,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00050,C0038,2024-09-06,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00051,C0211,2025-06-28,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00052,C0444,2024-08-22,2,Website UI is confusing to navigate.,Customers find the website user interface difficult to navigate.
+F00053,C0327,2025-04-04,3,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00054,C0249,2024-10-11,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00055,C0227,2024-07-15,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00056,C0048,2024-12-08,4,Disappointed with the return process.,Customer is dissatisfied with the return process.
+F00057,C0018,2024-07-14,4,Customer service was very helpful and quick.,Customer service was praised for being helpful and efficient.
+F00058,C0400,2025-02-16,1,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00059,C0439,2024-08-04,1,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00060,C0295,2025-05-25,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00061,C0196,2024-12-10,5,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00062,C0187,2025-05-07,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00063,C0345,2025-02-18,1,App is very slow and keeps freezing.,Customer finds app slow and freezing frequently.
+F00064,C0224,2024-08-28,4,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00065,C0318,2025-06-10,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00066,C0488,2024-10-08,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00067,C0397,2025-05-04,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return.
+F00068,C0365,2025-03-14,2,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00069,C0337,2024-07-26,3,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00070,C0497,2025-02-16,1,Customer service was very helpful and quick.,Customer service was responsive and efficient.
+F00071,C0229,2025-02-09,4,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00072,C0390,2024-08-10,4,Very satisfied with the product and support.,Highly satisfied with the product and support received.
+F00073,C0467,2024-07-20,1,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00074,C0077,2025-03-21,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00075,C0188,2025-05-29,1,App is very slow and keeps freezing.,Customer is experiencing slow performance and freezing issues with the app.
+F00076,C0346,2025-07-01,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00077,C0270,2025-01-14,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00078,C0095,2025-07-11,1,I had to cancel my order due to a technical glitch.,Order was canceled due to technical glitch.
+F00079,C0310,2025-02-19,2,Website UI is confusing to navigate.,The website user interface is difficult to navigate.
+F00080,C0132,2025-03-20,3,Product quality is not as described.,Product quality does not meet expectations as described.
+F00081,C0039,2024-12-09,5,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00082,C0072,2024-10-30,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging of the product.
+F00083,C0281,2025-04-05,4,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00084,C0333,2025-03-09,1,App is very slow and keeps freezing.,Customer finds the app slow and freezing frequently.
+F00085,C0160,2024-12-10,4,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to come back in the future.
+F00086,C0187,2025-01-03,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00087,C0486,2025-07-01,5,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00088,C0191,2025-04-29,1,I had to cancel my order due to a technical glitch.,Order was canceled due to technical issue.
+F00089,C0422,2024-10-13,2,Disappointed with the return process.,Customer was unsatisfied with the return process.
+F00090,C0120,2025-04-04,2,Customer service was very helpful and quick.,Customer service was efficient and responsive.
+F00091,C0220,2025-01-19,1,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00092,C0053,2025-03-07,2,Website UI is confusing to navigate.,Customers find the website user interface difficult to navigate.
+F00093,C0222,2024-10-18,1,App is very slow and keeps freezing.,Customer finds the app slow and prone to freezing.
+F00094,C0451,2024-11-24,1,Disappointed with the return process.,Customer found the return process disappointing.
+F00095,C0412,2025-03-17,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00096,C0131,2025-01-05,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00097,C0237,2025-01-15,2,Product quality is not as described.,The product quality does not meet the description.
+F00098,C0246,2025-07-05,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00099,C0226,2025-06-26,3,Love the fast delivery and packaging.,Customer appreciates the quick delivery and quality packaging.
+F00100,C0208,2024-09-10,3,Product quality is not as described.,Customer feedback indicates that the product does not meet the advertised quality.
+F00101,C0406,2025-01-05,3,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00102,C0096,2025-02-06,5,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting expectations.
+F00103,C0422,2025-06-19,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00104,C0200,2024-11-29,5,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of a technical issue.
+F00105,C0247,2024-10-07,1,App is very slow and keeps freezing.,Customer finds the app slow and freezing frequently.
+F00106,C0072,2024-09-07,2,Love the fast delivery and packaging.,Customer loves the quick delivery and packaging of their order.
+F00107,C0318,2024-11-01,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00108,C0185,2025-03-17,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00109,C0006,2025-04-22,2,App is very slow and keeps freezing.,Customer finds the app to be slow and freezing frequently.
+F00110,C0206,2024-09-18,2,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00111,C0032,2024-12-10,3,Product quality is not as described.,The product quality does not meet expectations.
+F00112,C0099,2024-10-20,3,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00113,C0394,2025-06-20,1,Very satisfied with the product and support.,Customer is highly satisfied with both the product and support.
+F00114,C0387,2024-09-13,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support.
+F00115,C0256,2024-12-02,2,Website UI is confusing to navigate.,Customer finds the website UI difficult to navigate.
+F00116,C0187,2025-04-26,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00117,C0076,2024-07-21,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00118,C0177,2024-12-27,3,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of a technical issue.
+F00119,C0315,2025-05-21,2,I had to cancel my order due to a technical glitch.,Order cancellation was necessary due to a technical issue.
+F00120,C0287,2024-11-06,1,I had to cancel my order due to a technical glitch.,Customer had to cancel their order due to a technical glitch.
+F00121,C0349,2024-09-06,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00122,C0255,2024-07-29,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00123,C0325,2025-01-07,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00124,C0190,2024-12-19,4,Appreciate the quick refund process.,Customer appreciates the fast refund process.
+F00125,C0308,2025-04-15,4,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical glitch.
+F00126,C0345,2025-06-19,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00127,C0127,2025-02-08,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00128,C0425,2025-06-08,2,App is very slow and keeps freezing.,App is slow and freezes frequently.
+F00129,C0287,2024-10-09,2,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00130,C0254,2024-12-16,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00131,C0213,2024-08-30,3,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00132,C0250,2025-06-04,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00133,C0084,2025-03-13,4,Disappointed with the return process.,Customer was unhappy with the return process.
+F00134,C0487,2024-11-27,4,Disappointed with the return process.,Customer was unhappy with the return process.
+F00135,C0383,2024-10-01,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00136,C0406,2025-07-13,3,Disappointed with the return process.,Customer is disappointed with the return process.
+F00137,C0388,2024-12-17,1,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00138,C0013,2024-12-23,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00139,C0045,2025-06-21,1,Website UI is confusing to navigate.,Customer finds the website's user interface difficult to navigate.
+F00140,C0127,2024-12-22,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00141,C0426,2025-01-07,5,Disappointed with the return process.,Unsatisfied with the return process.
+F00142,C0114,2025-04-23,5,"Great shopping experience, will definitely return.",The customer had a positive shopping experience and plans to come back in the future.
+F00143,C0433,2025-01-04,2,App is very slow and keeps freezing.,The app is experiencing performance issues with slow speeds and frequent freezing.
+F00144,C0276,2025-01-01,4,Disappointed with the return process.,Customer is dissatisfied with the return process.
+F00145,C0500,2024-12-10,4,Website UI is confusing to navigate.,The website UI is difficult to navigate.
+F00146,C0205,2025-01-09,5,Product quality is not as described.,Customer feedback indicates that the product quality does not match the description.
+F00147,C0337,2024-12-01,4,Appreciate the quick refund process.,Customer appreciates the prompt refund process.
+F00148,C0438,2024-11-21,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00149,C0420,2024-11-16,2,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00150,C0481,2025-03-28,5,Product quality is not as described.,Customer feedback: The product quality does not match the description.
+F00151,C0385,2024-12-14,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00152,C0399,2024-09-02,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00153,C0461,2025-04-19,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00154,C0273,2025-02-03,5,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00155,C0408,2024-09-30,5,Very satisfied with the product and support.,Customer is extremely pleased with both the product and the support received.
+F00156,C0058,2024-10-16,3,App is very slow and keeps freezing.,Customer feedback: The app is slow and frequently freezes.
+F00157,C0328,2024-10-05,4,Website UI is confusing to navigate.,Customer finds the website UI difficult to navigate.
+F00158,C0498,2025-04-15,4,Product quality is not as described.,The product quality does not match the description provided.
+F00159,C0219,2024-09-25,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00160,C0109,2025-02-18,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00161,C0279,2024-09-26,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00162,C0174,2025-06-17,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00163,C0328,2025-04-22,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00164,C0264,2025-03-26,3,Love the fast delivery and packaging.,Customer appreciates the quick delivery and quality packaging.
+F00165,C0315,2025-05-13,4,App is very slow and keeps freezing.,"Customer feedback: App is very slow and keeps freezing. 
+
+Summary: App performance is poor with frequent freezing issues."
+F00166,C0474,2025-03-10,5,App is very slow and keeps freezing.,Customer is experiencing slow performance and freezing issues with the app.
+F00167,C0111,2024-12-01,4,"Great shopping experience, will definitely return.","Positive feedback, planning to come back."
+F00168,C0187,2025-06-27,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00169,C0269,2025-01-08,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00170,C0423,2025-02-10,2,Product quality is not as described.,"Customer is dissatisfied with product quality, which does not match the description."
+F00171,C0229,2025-06-12,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00172,C0497,2025-05-05,5,Customer service was very helpful and quick.,Customer service was efficient and responsive.
+F00173,C0156,2025-05-16,4,App is very slow and keeps freezing.,Customer feedback states that the app is slow and frequently freezes.
+F00174,C0473,2024-12-18,5,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00175,C0189,2024-12-05,3,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00176,C0272,2025-03-20,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00177,C0375,2024-11-09,5,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00178,C0002,2024-10-03,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00179,C0246,2024-12-12,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00180,C0210,2024-09-05,4,Very satisfied with the product and support.,Highly satisfied with both the product and support.
+F00181,C0401,2025-01-11,4,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting the description.
+F00182,C0286,2024-08-24,4,"Great shopping experience, will definitely return.",Positive feedback indicating a likelihood of returning for future purchases.
+F00183,C0359,2025-02-08,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00184,C0013,2025-03-23,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00185,C0096,2025-01-04,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00186,C0498,2024-11-06,3,Product quality is not as described.,The product quality does not match the description provided.
+F00187,C0221,2025-06-29,4,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00188,C0238,2025-06-01,1,Disappointed with the return process.,Customer was disappointed with the return process.
+F00189,C0094,2025-05-09,4,Website UI is confusing to navigate.,Customers find the website UI difficult to navigate.
+F00190,C0338,2025-06-15,1,Product quality is not as described.,Customer feedback indicates dissatisfaction with product quality not meeting the description.
+F00191,C0269,2025-03-12,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00192,C0171,2024-12-20,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00193,C0469,2024-08-01,2,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00194,C0094,2024-09-28,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00195,C0149,2024-10-05,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00196,C0112,2024-11-21,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00197,C0055,2025-02-12,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00198,C0337,2025-06-23,2,I had to cancel my order due to a technical glitch.,Order was canceled because of a technical glitch.
+F00199,C0424,2024-09-11,4,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to come back.
+F00200,C0467,2025-03-26,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00201,C0116,2024-12-09,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00202,C0143,2025-07-11,2,Love the fast delivery and packaging.,Customer appreciates the quick shipping and quality packaging.
+F00203,C0201,2025-01-29,5,Website UI is confusing to navigate.,Customer finds the website user interface difficult to navigate.
+F00204,C0180,2024-12-27,2,Disappointed with the return process.,Customer was unhappy with the return process.
+F00205,C0202,2024-09-21,1,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00206,C0364,2025-01-01,2,Website UI is confusing to navigate.,Customer finds the website UI difficult to navigate.
+F00207,C0479,2024-07-22,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00208,C0053,2025-04-08,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00209,C0471,2024-10-01,2,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00210,C0384,2024-12-09,3,Customer service was very helpful and quick.,The customer service was both helpful and efficient.
+F00211,C0180,2025-02-18,1,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00212,C0414,2025-03-29,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00213,C0417,2024-09-17,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00214,C0313,2024-10-27,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00215,C0308,2025-04-28,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00216,C0137,2025-04-03,2,App is very slow and keeps freezing.,Customer feedback indicates that the app is slow and frequently freezes.
+F00217,C0182,2025-02-16,3,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00218,C0367,2025-05-07,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00219,C0001,2024-09-11,2,I had to cancel my order due to a technical glitch.,Order had to be cancelled because of a technical glitch.
+F00220,C0044,2025-03-19,2,App is very slow and keeps freezing.,Customer feedback: The app is slow and keeps freezing.
+F00221,C0227,2024-12-16,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00222,C0331,2025-02-21,4,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00223,C0098,2025-05-12,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00224,C0208,2025-05-20,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00225,C0265,2024-09-27,3,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00226,C0288,2024-09-09,1,Very satisfied with the product and support.,Customer is extremely pleased with both the product and the support received.
+F00227,C0271,2024-12-19,3,Disappointed with the return process.,Customer is dissatisfied with the return process.
+F00228,C0140,2024-11-12,5,Website UI is confusing to navigate.,Customer finds the website's user interface difficult to navigate.
+F00229,C0481,2025-01-10,4,Love the fast delivery and packaging.,Customer is satisfied with the quick delivery and packaging of their order.
+F00230,C0237,2024-10-16,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00231,C0462,2025-06-15,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00232,C0441,2025-04-25,4,Product quality is not as described.,Product quality does not meet the description provided.
+F00233,C0392,2024-09-01,1,Website UI is confusing to navigate.,Customers find the website UI difficult to navigate.
+F00234,C0072,2025-05-05,1,Love the fast delivery and packaging.,"Error: The server had an error while processing your request. Sorry about that! {
+  ""error"": {
+    ""message"": ""The server had an error while processing your request. Sorry about that!"",
+    ""type"": ""server_error"",
+    ""param"": null,
+    ""code"": null
+  }
+} 500 {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}} {'Date': 'Mon, 04 Aug 2025 16:50:59 GMT', 'Content-Type': 'application/json', 'Content-Length': '175', 'Connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'user-z5iqfk1zyu2kf1ch4byb5kjw', 'openai-processing-ms': '213', 'openai-project': 'proj_pkk57oiDgvwnHtaYRTqH6PIa', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '283', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9787', 'x-ratelimit-remaining-tokens': '199974', 'x-ratelimit-reset-requests': '30m36.66s', 'x-ratelimit-reset-tokens': '7ms', 'x-request-id': 'req_0cbf132af0f0cbfcf628ea8a7ab33f5b', 'x-envoy-decorator-operation': 'router.openai.svc.cluster.local:5004/*', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'X-Content-Type-Options': 'nosniff', 'Server': 'cloudflare', 'CF-RAY': '969f8e8f1f6f4cfc-BOS', 'alt-svc': 'h3="":443""; ma=86400'}"
+F00235,C0155,2025-07-09,3,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00236,C0190,2025-01-18,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00237,C0268,2024-11-12,1,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00238,C0321,2025-03-07,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00239,C0107,2025-07-10,5,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00240,C0232,2025-05-05,2,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00241,C0042,2025-03-07,2,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description.
+F00242,C0190,2025-02-04,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00243,C0371,2025-04-24,4,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00244,C0139,2025-03-13,4,"Great shopping experience, will definitely return.",Highly satisfied customer who plans to shop again.
+F00245,C0103,2025-06-18,3,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting the description.
+F00246,C0171,2024-07-26,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00247,C0351,2025-04-01,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00248,C0273,2024-08-19,2,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00249,C0481,2025-05-14,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging of their order.
+F00250,C0416,2024-08-07,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00251,C0221,2024-08-15,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00252,C0213,2024-07-21,3,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00253,C0341,2024-07-16,4,Very satisfied with the product and support.,Customer is very satisfied with the product and support.
+F00254,C0424,2025-07-05,3,Product quality is not as described.,Product quality does not match the description provided.
+F00255,C0407,2025-06-12,2,Disappointed with the return process.,Customer was unsatisfied with the return process.
+F00256,C0056,2025-06-15,3,Love the fast delivery and packaging.,The customer appreciates the quick delivery and quality packaging.
+F00257,C0390,2024-08-02,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00258,C0342,2024-11-18,2,Website UI is confusing to navigate.,Customers find the website's user interface difficult to navigate.
+F00259,C0434,2025-06-09,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00260,C0102,2024-08-16,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00261,C0421,2024-11-11,4,"Great shopping experience, will definitely return.",Positive feedback indicating intention to return for future purchases.
+F00262,C0493,2025-07-09,4,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00263,C0192,2025-06-28,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00264,C0499,2024-11-28,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00265,C0310,2024-09-29,5,Product quality is not as described.,The product quality does not meet the description provided.
+F00266,C0200,2025-04-27,2,I had to cancel my order due to a technical glitch.,Order was canceled due to technical issues.
+F00267,C0233,2024-09-09,4,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00268,C0433,2024-10-03,2,Customer service was very helpful and quick.,Customer service was efficient and responsive.
+F00269,C0227,2024-11-09,1,Love the fast delivery and packaging.,The customer appreciated the quick delivery and quality packaging.
+F00270,C0371,2025-06-04,5,App is very slow and keeps freezing.,Customer feedback: The app is slow and keeps freezing.
+F00271,C0139,2024-08-07,1,App is very slow and keeps freezing.,Customer finds the app slow and freezing.
+F00272,C0344,2024-11-30,2,Very satisfied with the product and support.,Customer is extremely pleased with both the product and support received.
+F00273,C0305,2025-03-12,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00274,C0149,2025-07-01,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00275,C0115,2024-11-12,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00276,C0450,2025-02-24,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00277,C0063,2025-06-29,2,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting the description.
+F00278,C0104,2025-05-30,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00279,C0339,2025-01-02,3,"Great shopping experience, will definitely return.",Highly satisfied customer who plans to return for future purchases.
+F00280,C0359,2025-01-13,1,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00281,C0156,2024-11-21,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00282,C0273,2025-04-12,2,Website UI is confusing to navigate.,Customer finds the website interface difficult to use.
+F00283,C0006,2024-09-19,1,Disappointed with the return process.,Customer was disappointed with the return process.
+F00284,C0147,2024-11-02,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00285,C0184,2024-11-07,4,Customer service was very helpful and quick.,Customer service was efficient and attentive.
+F00286,C0486,2024-08-21,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00287,C0028,2025-05-20,4,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00288,C0450,2025-02-16,2,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00289,C0038,2024-09-13,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00290,C0119,2025-06-27,2,Customer service was very helpful and quick.,Customer service was prompt and efficient.
+F00291,C0293,2025-06-19,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00292,C0371,2024-09-10,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00293,C0244,2024-09-14,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00294,C0068,2024-12-21,4,I had to cancel my order due to a technical glitch.,Order was canceled due to technical issues.
+F00295,C0214,2024-08-27,2,Product quality is not as described.,Customer feedback indicates that the product does not meet the advertised quality standards.
+F00296,C0218,2025-02-04,1,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00297,C0177,2025-07-01,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00298,C0299,2025-03-10,4,Product quality is not as described.,The product quality does not meet the description.
+F00299,C0164,2024-12-19,4,Website UI is confusing to navigate.,The website interface is difficult to navigate.
+F00300,C0058,2024-09-12,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00301,C0269,2025-02-16,2,App is very slow and keeps freezing.,"Customer feedback: ""App is very slow and keeps freezing."" 
+
+Summary: Customer experiences slow performance and frequent freezing of the app."
+F00302,C0308,2025-02-12,1,Product quality is not as described.,The product quality does not meet the description provided.
+F00303,C0058,2025-03-14,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00304,C0288,2025-01-11,5,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00305,C0465,2025-04-10,4,Website UI is confusing to navigate.,Customer finds the website user interface difficult to navigate.
+F00306,C0105,2024-10-30,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00307,C0228,2025-04-06,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and frequently freezes.
+F00308,C0247,2025-06-07,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00309,C0188,2025-06-28,5,Website UI is confusing to navigate.,Customer finds the website UI difficult to navigate.
+F00310,C0494,2024-10-17,5,Very satisfied with the product and support.,Customer is very satisfied with the product and support.
+F00311,C0083,2024-08-26,2,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00312,C0186,2025-03-27,5,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00313,C0252,2024-09-07,2,Product quality is not as described.,Product quality does not match the description given.
+F00314,C0355,2025-07-01,2,Website UI is confusing to navigate.,Customers find the website interface difficult to navigate.
+F00315,C0238,2025-01-01,2,App is very slow and keeps freezing.,Customer feedback: App is slow and keeps freezing.
+F00316,C0360,2024-08-19,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00317,C0184,2025-05-02,4,Product quality is not as described.,The product quality does not match the description.
+F00318,C0284,2024-07-28,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00319,C0385,2024-09-03,4,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00320,C0426,2025-06-19,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00321,C0210,2024-12-07,4,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to return in the future.
+F00322,C0304,2025-01-12,1,Very satisfied with the product and support.,Customer is very happy with the product and support provided.
+F00323,C0296,2024-12-07,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00324,C0097,2025-01-14,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return.
+F00325,C0447,2024-09-17,4,Disappointed with the return process.,Customer was disappointed with the return process.
+F00326,C0460,2025-05-06,4,Customer service was very helpful and quick.,Customer service was efficient and helpful.
+F00327,C0456,2024-07-20,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00328,C0472,2025-02-25,3,I had to cancel my order due to a technical glitch.,Order was cancelled due to technical issues.
+F00329,C0208,2025-04-06,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00330,C0370,2025-05-26,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00331,C0388,2024-11-30,3,"Great shopping experience, will definitely return.",Highly satisfied customer who plans to come back.
+F00332,C0422,2025-07-09,5,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00333,C0492,2024-12-31,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00334,C0411,2025-02-25,5,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00335,C0137,2025-02-20,3,Product quality is not as described.,The product quality does not match the description provided.
+F00336,C0367,2024-09-21,4,"Great shopping experience, will definitely return.",Positive feedback indicating satisfaction with the shopping experience and intent to return.
+F00337,C0400,2025-01-02,1,Website UI is confusing to navigate.,Customer found the website UI difficult to navigate.
+F00338,C0184,2025-06-25,5,Product quality is not as described.,Product quality does not meet expectations.
+F00339,C0076,2024-07-20,5,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00340,C0287,2025-01-19,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00341,C0472,2025-03-30,1,App is very slow and keeps freezing.,The app performance is slow and freezing frequently.
+F00342,C0375,2025-02-18,1,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00343,C0142,2024-11-23,4,Disappointed with the return process.,Customer was disappointed with the return process.
+F00344,C0237,2025-06-21,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00345,C0025,2024-11-21,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00346,C0290,2024-08-15,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00347,C0067,2025-06-22,3,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00348,C0250,2024-12-03,4,App is very slow and keeps freezing.,Customer feedback indicates that the app is slow and frequently freezes.
+F00349,C0408,2024-08-08,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00350,C0118,2024-09-19,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00351,C0490,2024-09-03,1,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to return in the future.
+F00352,C0073,2025-03-12,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00353,C0282,2024-11-06,3,Website UI is confusing to navigate.,Customer found the website UI difficult to navigate.
+F00354,C0404,2025-04-02,1,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00355,C0448,2024-12-12,4,Product quality is not as described.,Product quality does not meet expectations as advertised.
+F00356,C0360,2025-07-04,3,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00357,C0010,2024-09-09,5,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of a technical issue.
+F00358,C0211,2024-08-25,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00359,C0323,2025-07-11,4,I had to cancel my order due to a technical glitch.,Order canceled due to technical glitch.
+F00360,C0152,2025-05-16,3,App is very slow and keeps freezing.,Customer feedback: The app is slow and keeps freezing.
+F00361,C0005,2025-03-29,5,Website UI is confusing to navigate.,Customer found the website UI difficult to navigate.
+F00362,C0195,2024-09-27,1,App is very slow and keeps freezing.,Customer feedback: App is very slow and keeps freezing.
+F00363,C0442,2025-03-16,5,Very satisfied with the product and support.,The customer is very satisfied with both the product and support.
+F00364,C0283,2024-11-14,1,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00365,C0464,2024-11-03,2,Very satisfied with the product and support.,Customer is highly satisfied with both the product and support received.
+F00366,C0113,2025-04-15,5,Love the fast delivery and packaging.,Customer loves fast delivery and packaging.
+F00367,C0271,2025-05-16,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00368,C0163,2025-05-14,4,Product quality is not as described.,The product quality does not meet the description.
+F00369,C0460,2024-08-14,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00370,C0105,2024-11-27,1,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00371,C0181,2025-03-04,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00372,C0044,2025-05-19,4,Love the fast delivery and packaging.,Customer is satisfied with the fast delivery and packaging of their order.
+F00373,C0282,2025-01-21,4,Product quality is not as described.,Product quality does not meet expectations.
+F00374,C0175,2024-07-19,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00375,C0162,2025-03-11,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00376,C0471,2025-06-24,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00377,C0351,2025-02-27,2,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00378,C0434,2024-12-22,3,App is very slow and keeps freezing.,Customer feedback is that the app is slow and freezes frequently.
+F00379,C0340,2024-09-16,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00380,C0140,2024-12-01,3,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00381,C0471,2025-06-08,1,App is very slow and keeps freezing.,Customer feedback indicates that the app is slow and frequently freezes.
+F00382,C0132,2024-10-19,2,Product quality is not as described.,Customer feels that the product quality is lower than what was advertised.
+F00383,C0087,2024-09-25,5,Product quality is not as described.,Customer feels that the product received does not match the quality described.
+F00384,C0176,2025-01-28,1,Product quality is not as described.,The product quality does not match the description provided.
+F00385,C0183,2024-10-29,1,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00386,C0368,2025-01-31,2,Customer service was very helpful and quick.,Customer service was prompt and efficient.
+F00387,C0129,2025-06-29,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00388,C0246,2025-07-03,4,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00389,C0089,2024-07-22,5,Love the fast delivery and packaging.,Customer is pleased with the fast delivery and packaging.
+F00390,C0066,2025-01-19,3,Product quality is not as described.,The product quality does not meet the description provided.
+F00391,C0158,2024-11-13,1,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00392,C0387,2025-06-29,3,App is very slow and keeps freezing.,Customer is experiencing slow performance and freezing issues with the app.
+F00393,C0378,2024-09-15,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00394,C0149,2024-08-02,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00395,C0473,2025-03-22,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00396,C0340,2024-10-13,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00397,C0433,2025-04-11,4,Website UI is confusing to navigate.,The website's user interface is difficult to use.
+F00398,C0116,2024-11-09,4,Very satisfied with the product and support.,Customer is pleased with the product and support.
+F00399,C0214,2024-10-23,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00400,C0469,2025-01-03,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00401,C0446,2024-12-28,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00402,C0481,2024-11-21,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00403,C0372,2024-07-28,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to a technical glitch.
+F00404,C0294,2024-10-26,3,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00405,C0253,2025-04-30,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00406,C0143,2025-05-04,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00407,C0250,2025-03-25,5,"Great shopping experience, will definitely return.",Positive feedback indicating satisfaction with the shopping experience and intent to return.
+F00408,C0366,2025-01-06,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00409,C0436,2025-03-26,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00410,C0463,2024-08-13,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00411,C0302,2024-11-19,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00412,C0025,2025-02-12,1,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return.
+F00413,C0277,2024-07-25,4,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00414,C0472,2024-09-01,4,"Great shopping experience, will definitely return.","Positive feedback, plans to return."
+F00415,C0377,2025-06-16,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00416,C0378,2025-07-07,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00417,C0389,2025-03-12,3,Website UI is confusing to navigate.,The website user interface is difficult to navigate.
+F00418,C0070,2024-07-17,3,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting the description.
+F00419,C0113,2025-04-24,4,Disappointed with the return process.,Customer was disappointed with the return process.
+F00420,C0363,2025-02-20,2,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00421,C0112,2024-07-20,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00422,C0364,2024-11-07,3,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00423,C0303,2024-12-07,2,App is very slow and keeps freezing.,"Customer feedback: ""App is slow and freezes frequently."""
+F00424,C0471,2024-09-28,3,"Great shopping experience, will definitely return.",The customer had a positive shopping experience and plans to come back.
+F00425,C0452,2025-06-29,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00426,C0091,2025-01-11,4,"Great shopping experience, will definitely return.",The customer had a positive shopping experience and plans to come back.
+F00427,C0018,2024-12-07,1,"Great shopping experience, will definitely return.",Highly satisfied customer who plans to come back for future shopping.
+F00428,C0149,2024-12-10,4,Product quality is not as described.,Customer feedback indicates that the product does not meet the advertised quality standards.
+F00429,C0476,2024-07-26,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00430,C0227,2025-04-09,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00431,C0214,2025-03-30,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00432,C0360,2024-10-25,3,Website UI is confusing to navigate.,Customer finds the website UI difficult to navigate.
+F00433,C0151,2025-04-09,2,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return again.
+F00434,C0192,2024-12-05,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00435,C0451,2024-11-20,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00436,C0040,2024-12-02,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00437,C0242,2025-05-20,2,Disappointed with the return process.,Customer was unsatisfied with the return process.
+F00438,C0138,2025-01-28,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00439,C0345,2025-06-09,3,Product quality is not as described.,The product quality does not match the description provided.
+F00440,C0180,2025-05-13,4,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description.
+F00441,C0497,2024-12-24,1,I had to cancel my order due to a technical glitch.,Order cancellation was necessary as a result of a technical issue.
+F00442,C0200,2024-12-18,2,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00443,C0203,2025-04-13,4,Website UI is confusing to navigate.,Customer finds the website user interface difficult to navigate.
+F00444,C0061,2024-11-22,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00445,C0192,2024-09-02,3,Disappointed with the return process.,Customer found the return process disappointing.
+F00446,C0005,2024-11-24,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging provided by the company.
+F00447,C0378,2025-04-18,4,App is very slow and keeps freezing.,Customer finds the app slow and prone to freezing.
+F00448,C0237,2024-10-22,3,I had to cancel my order due to a technical glitch.,Order was canceled due to a technical glitch.
+F00449,C0181,2025-02-12,5,Website UI is confusing to navigate.,The website UI is difficult to navigate.
+F00450,C0311,2024-09-25,4,Customer service was very helpful and quick.,Customer service was prompt and effective.
+F00451,C0037,2025-01-18,1,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to come back.
+F00452,C0056,2024-10-30,4,"Great shopping experience, will definitely return.",Positive feedback indicating satisfaction with the shopping experience and intention to return.
+F00453,C0443,2024-10-24,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00454,C0237,2024-08-14,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00455,C0358,2025-07-02,3,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00456,C0349,2025-01-03,3,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00457,C0197,2025-07-04,5,Website UI is confusing to navigate.,Customer finds the website's user interface difficult to navigate.
+F00458,C0073,2025-03-30,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00459,C0059,2024-08-14,5,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00460,C0240,2025-05-21,1,Website UI is confusing to navigate.,Customer finds the website user interface difficult to navigate.
+F00461,C0002,2025-03-28,5,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00462,C0449,2025-07-02,1,Very satisfied with the product and support.,The customer is very satisfied with the product and support.
+F00463,C0360,2024-11-13,5,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description provided.
+F00464,C0188,2025-06-12,1,Product quality is not as described.,The product quality does not meet expectations.
+F00465,C0307,2025-01-26,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00466,C0030,2025-06-25,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00467,C0267,2024-08-26,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00468,C0476,2024-07-21,1,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00469,C0108,2025-05-23,2,Very satisfied with the product and support.,The customer was very satisfied with both the product and support provided.
+F00470,C0332,2024-08-31,3,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00471,C0423,2025-05-22,4,Customer service was very helpful and quick.,Customer service was efficient and responsive.
+F00472,C0090,2025-05-04,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00473,C0205,2024-08-23,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00474,C0379,2024-10-15,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00475,C0456,2024-08-10,4,Website UI is confusing to navigate.,The website user interface is difficult to navigate.
+F00476,C0447,2024-09-19,3,"Great shopping experience, will definitely return.",Positive feedback indicating satisfaction with the shopping experience and intention to return.
+F00477,C0448,2024-12-05,1,App is very slow and keeps freezing.,Customer feedback: The app is slow and keeps freezing.
+F00478,C0445,2024-08-07,2,Customer service was very helpful and quick.,The customer service was efficient and supportive.
+F00479,C0381,2024-09-10,1,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00480,C0438,2025-02-20,5,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00481,C0220,2025-05-20,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00482,C0378,2024-10-13,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00483,C0094,2025-05-11,4,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00484,C0457,2024-08-15,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00485,C0103,2025-06-13,4,Product quality is not as described.,The product quality does not meet the description.
+F00486,C0223,2024-08-11,1,Website UI is confusing to navigate.,Customers find the website user interface difficult to navigate.
+F00487,C0186,2024-07-16,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00488,C0469,2025-04-19,4,App is very slow and keeps freezing.,Customer is experiencing slow performance and frequent freezes on the app.
+F00489,C0184,2024-07-18,5,Product quality is not as described.,The product quality does not meet expectations.
+F00490,C0495,2025-04-25,5,Customer service was very helpful and quick.,The customer found the customer service to be efficient and responsive.
+F00491,C0162,2025-05-22,1,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00492,C0247,2024-11-22,3,Love the fast delivery and packaging.,Customer appreciates the quick delivery and quality packaging.
+F00493,C0031,2025-06-15,2,Very satisfied with the product and support.,The customer is very satisfied with both the product and support.
+F00494,C0052,2025-06-30,3,App is very slow and keeps freezing.,Customer feedback: The app is slow and frequently freezes.
+F00495,C0345,2025-03-09,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00496,C0076,2024-08-09,4,I had to cancel my order due to a technical glitch.,Order canceled due to technical glitch.
+F00497,C0385,2024-09-11,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00498,C0439,2025-02-24,1,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to return in the future.
+F00499,C0278,2025-03-13,2,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00500,C0040,2025-06-16,1,Product quality is not as described.,Product quality does not meet expectations.
+F00501,C0101,2025-01-07,2,Disappointed with the return process.,Customer was not satisfied with the return process.
+F00502,C0111,2025-03-15,1,Product quality is not as described.,The product quality does not meet the description.
+F00503,C0385,2025-06-17,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00504,C0321,2024-11-18,2,Website UI is confusing to navigate.,Customers find the website UI difficult to navigate.
+F00505,C0249,2025-05-14,2,Love the fast delivery and packaging.,Customer is satisfied with the fast delivery and packaging.
+F00506,C0191,2025-03-28,1,Product quality is not as described.,"Customer is dissatisfied with the product quality, which does not meet the description."
+F00507,C0490,2024-08-23,5,Disappointed with the return process.,Customer was disappointed with the return process.
+F00508,C0182,2025-03-07,2,Website UI is confusing to navigate.,Customer finds the website user interface difficult to navigate.
+F00509,C0426,2024-08-29,3,Product quality is not as described.,Product quality does not meet expectations.
+F00510,C0405,2024-08-03,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00511,C0335,2025-04-12,1,Disappointed with the return process.,Customer was disappointed with the return process.
+F00512,C0209,2024-09-04,1,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00513,C0022,2024-09-28,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and freezes frequently.
+F00514,C0166,2025-07-04,5,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00515,C0099,2025-04-28,4,Website UI is confusing to navigate.,Customer finds the website's user interface difficult to navigate.
+F00516,C0493,2025-07-07,2,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00517,C0208,2024-08-13,4,App is very slow and keeps freezing.,Customer complains that app is slow and keeps freezing.
+F00518,C0008,2024-09-23,1,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to return in the future.
+F00519,C0190,2024-08-17,4,Disappointed with the return process.,Customer was disappointed with the return process.
+F00520,C0175,2025-04-17,3,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00521,C0273,2024-08-17,2,Very satisfied with the product and support.,Customer is very satisfied with the product and support received.
+F00522,C0017,2024-07-14,4,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00523,C0090,2024-12-28,1,"Great shopping experience, will definitely return.",Highly satisfied customer who plans on returning for future purchases.
+F00524,C0141,2025-05-16,2,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00525,C0145,2025-04-05,1,Disappointed with the return process.,Customer was dissatisfied with the return process.
+F00526,C0166,2024-10-11,5,Customer service was very helpful and quick.,The customer service was efficient and responsive.
+F00527,C0337,2024-10-02,3,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00528,C0496,2024-08-01,5,Customer service was very helpful and quick.,Customer service was helpful and efficient.
+F00529,C0078,2025-04-17,3,Product quality is not as described.,The product quality does not match the description provided.
+F00530,C0429,2024-08-12,4,"Great shopping experience, will definitely return.",Positive feedback with intent to return.
+F00531,C0262,2024-12-10,2,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00532,C0163,2024-11-14,4,"Great shopping experience, will definitely return.",Customer had a positive shopping experience and plans to come back.
+F00533,C0366,2025-03-12,3,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00534,C0014,2025-02-03,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00535,C0239,2024-09-25,3,Very satisfied with the product and support.,Customer is very satisfied with product and support.
+F00536,C0072,2025-01-13,1,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00537,C0445,2025-05-26,2,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00538,C0143,2024-09-27,4,App is very slow and keeps freezing.,Customer is dissatisfied with the app's performance due to slowness and freezing issues.
+F00539,C0310,2025-04-14,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00540,C0283,2025-01-21,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00541,C0269,2025-03-05,3,App is very slow and keeps freezing.,Customer is experiencing slow speed and frequent freezing issues with the app.
+F00542,C0241,2025-04-13,3,Disappointed with the return process.,Customer was disappointed with the return process.
+F00543,C0415,2024-09-23,3,I had to cancel my order due to a technical glitch.,Order was cancelled due to a technical glitch.
+F00544,C0245,2025-01-11,4,App is very slow and keeps freezing.,Customer feedback: App is very slow and keeps freezing.
+F00545,C0163,2024-11-01,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00546,C0060,2025-04-23,1,Product quality is not as described.,Customer is dissatisfied with the product quality not meeting the description.
+F00547,C0006,2025-04-01,2,App is very slow and keeps freezing.,Customer feedback: App is slow and keeps freezing.
+F00548,C0197,2025-02-27,1,I had to cancel my order due to a technical glitch.,Order was cancelled due to a technical glitch.
+F00549,C0470,2025-06-13,4,Website UI is confusing to navigate.,Customers find the website user interface difficult to navigate.
+F00550,C0058,2025-06-12,3,Website UI is confusing to navigate.,Customers find the website user interface difficult to navigate.
+F00551,C0305,2024-08-05,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00552,C0407,2024-12-31,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00553,C0217,2024-09-22,4,Customer service was very helpful and quick.,Customer service was efficient and attentive.
+F00554,C0418,2025-01-26,4,App is very slow and keeps freezing.,"Customer feedback: ""App is very slow and keeps freezing."""
+F00555,C0026,2024-07-15,2,Love the fast delivery and packaging.,Customer appreciates the quick delivery and quality packaging.
+F00556,C0303,2024-08-12,2,Product quality is not as described.,The product does not meet the advertised quality standards.
+F00557,C0005,2024-09-19,5,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00558,C0474,2024-09-27,5,Product quality is not as described.,The product does not meet the advertised quality standards.
+F00559,C0020,2024-10-23,1,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00560,C0390,2024-09-06,2,App is very slow and keeps freezing.,Customer feedback: The app is slow and frequently freezes.
+F00561,C0198,2025-06-19,2,I had to cancel my order due to a technical glitch.,Order cancelled due to technical glitch.
+F00562,C0059,2025-02-08,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support provided.
+F00563,C0448,2025-02-21,5,Product quality is not as described.,Customer feedback indicates that the product quality does not meet the description.
+F00564,C0242,2024-09-24,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00565,C0146,2025-04-10,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00566,C0388,2024-08-30,5,Product quality is not as described.,Product quality does not meet expectations.
+F00567,C0273,2025-04-11,2,Disappointed with the return process.,Customer was disappointed with the return process.
+F00568,C0249,2025-05-04,5,Website UI is confusing to navigate.,The customer finds the website UI difficult to navigate.
+F00569,C0014,2024-08-11,1,"Great shopping experience, will definitely return.",The customer had a positive shopping experience and plans to come back.
+F00570,C0462,2024-09-24,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00571,C0013,2024-09-23,1,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00572,C0391,2025-06-07,2,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00573,C0384,2024-11-14,5,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00574,C0044,2025-05-02,4,App is very slow and keeps freezing.,Customer is experiencing slow performance and freezing issues with the app.
+F00575,C0375,2024-10-09,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00576,C0399,2024-09-14,1,I had to cancel my order due to a technical glitch.,Customer had to cancel their order because of a technical issue.
+F00577,C0019,2024-12-13,5,Very satisfied with the product and support.,Customer was very satisfied with both the product and support.
+F00578,C0063,2025-03-16,4,App is very slow and keeps freezing.,Customer feedback: The app is slow and keeps freezing.
+F00579,C0491,2025-06-02,5,App is very slow and keeps freezing.,Customer feedback indicates that the app is experiencing performance issues such as slow loading times and freezing.
+F00580,C0239,2025-02-28,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00581,C0492,2024-11-05,3,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00582,C0419,2025-03-03,5,"Great shopping experience, will definitely return.",Customer had a great shopping experience and plans to return in the future.
+F00583,C0337,2024-12-20,2,Product quality is not as described.,Customer feedback indicates that the product quality does not match the description.
+F00584,C0419,2025-01-25,4,Very satisfied with the product and support.,Customer is very satisfied with both the product and support.
+F00585,C0403,2025-03-18,5,Website UI is confusing to navigate.,The website's user interface is difficult to navigate.
+F00586,C0404,2024-10-31,4,Customer service was very helpful and quick.,The customer found the customer service to be prompt and supportive.
+F00587,C0100,2024-10-05,2,Very satisfied with the product and support.,Customer is very satisfied with both the product and the support received.
+F00588,C0163,2024-12-25,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00589,C0416,2024-10-18,3,Very satisfied with the product and support.,Customer is very satisfied with both the product and support received.
+F00590,C0122,2025-05-29,2,App is very slow and keeps freezing.,The app is slow and frequently freezes.
+F00591,C0432,2024-11-23,4,I had to cancel my order due to a technical glitch.,Customer had to cancel order due to technical glitch.
+F00592,C0044,2025-04-24,5,App is very slow and keeps freezing.,Customer is dissatisfied with the app's slow performance and frequent freezing.
+F00593,C0360,2024-10-14,2,I had to cancel my order due to a technical glitch.,Customer had to cancel their order due to technical issues.
+F00594,C0408,2025-02-04,1,Appreciate the quick refund process.,Customer appreciates the quick refund process.
+F00595,C0317,2024-07-15,4,Customer service was very helpful and quick.,Customer service was efficient and supportive.
+F00596,C0381,2025-03-24,3,App is very slow and keeps freezing.,Customer finds app slow and prone to freezing.
+F00597,C0145,2025-06-23,2,I had to cancel my order due to a technical glitch.,Customer had to cancel order because of technical issue.
+F00598,C0327,2025-04-04,3,App is very slow and keeps freezing.,Customer feedback: The app is very slow and keeps freezing.
+F00599,C0363,2024-10-18,4,Love the fast delivery and packaging.,Customer loves the fast delivery and packaging.
+F00600,C0050,2024-10-30,3,App is very slow and keeps freezing.,Customer complains that the app is slow and freezes frequently.
